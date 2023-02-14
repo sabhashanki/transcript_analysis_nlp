@@ -1,0 +1,282 @@
+1659546090.0-1659575778.0
+So hello and welcome, everybody, to this edition of profit motive on koke. Koke is a social media platform that's been developed completely in India and owned by indians, where we want our users in India to use this platform to have conversations with each other. It's supposed to different languages and different formats, and we're really happy to have you on today. Kara to all those who who are watching. Gaurav Restogi is the founder and CEO of Kuvera.
+1659575954.0-1659611490.0
+Kuvera is an Indian online wealth management platform for mutual funds, digital gold, fixed deposits, crypto insurance, everything that you ask for. Kuvera, you call sorry, go ahead. You call yourself Kuvera's chief evangelist. So tell me why that's the title you gave to yourself, and what is it that you believe you're evangelizing about? So I think we started queuera with the whole idea of how can you take miss selling out of investments?
+1659611990.0-1659651694.0
+Okay? Investments has been something investments in insurance, to be very honest, historically, they have been sold by either focusing on the greed of individuals, which is investing. Let's say, you know what, I'll double the money in five years, two years, six months, whatever it is, or fear of people, which is insurance. What if something happens, right? And a lot of times in investments, what happens is a lot of those promises are not fulfilled because markets essentially cannot be predicted, right?
+1659651732.0-1659706080.0
+So you cannot say no one can guarantee a return or anything, but by promising those higher returns, individuals or organizations can charge a much higher fee for their service, and that's where the cost balloons. So when we started, we wanted to figure out a way where we could kind of through education, by building a platform that kind of follows some of these tenets of putting the investor first or the user first, we can solve for some of these problems. Right? So that's why it had that angle that it's not just about building a business, but also fixing some of the things that are not ideal in the wealth management space. Okay, so particularly mutual funds and insurance.
+1659708610.0-1659767150.0
+Do you feel that mutual fund is that before 2013, and even still, a lot of people don't even know that in mutual funds, you have regular plans and direct plans, right. It's a very simple and it's a mathematical certainty, the way it's set up in a regular plan. What will happen is and I'm just going to use idealized numbers, the expense ratio of the mutual fund is, say, one and a half percent, out of which 50 basis points a .5% is going to the asset management company, which, you know, like yeah, the ichi, the quantum mere age of the world, right? And 1% per year is actually going to the distributor who helped you make that investment. Now, that's a very big fee.
+1659767310.0-1659802190.0
+And and that's not just one time, right? They're getting that 1% every single year that you stay invested. Essentially, what is happening is that where you could have gotten a 15% return, you're getting a 14%. Where you could have gotten a 12% return, you're getting an 11% return. And if you just kind of play out the math over someone's investment horizon, like, say, you think about India's demographics, most of the people who are investing today are 25 to 30 years old, so they have at least a 30 year investment journey.
+1659802610.0-1659851658.0
+Not true for everyone. I'm just looking at the, at the bell curve and where, you know, majority of our fellow countrymen are that adds up in 30 years, that will add up to between 35 and 40%. You would have had a purpose. It would have been that much larger if you had gotten that 1% every year rather than that 1% being paid out as commission would just help you invest that one time, collected that 1% for the this whole idea. That the fee that people are paying in terms of the absolute number, but also the fee that people are paying in terms of how it affects your compounding over time, is it justified?
+1659851754.0-1659858590.0
+Right. Is there a different way of doing things then? There is a different way of doing things. There's something called direct plans. Direct plans.
+1659859750.0-1659877522.0
+There is no commission. There is no that 1%. Right? So if the returns are 15%, you get 15%. And so we, when we saw this, this rule was, by the way, this direct plan whole regulation came in 2013.
+1659877586.0-1659920770.0
+It was driven by sevi that wanted to create a lot more transparency on the fee structures of mutual fund. And to us, it was very clear that over time, people will go towards direct plans because that's where they are going to have a larger long term wealth. That's a very simple example on how things in investment, on how fees. Adam, there are multiple complicated cases also, right? I mean, in stocks, you will have a manager come to you and say that, hey, you know what, I'm going to give you a basket of stocks and then I'll tell you how to rebalance it every quarter.
+1659921270.0-1659927666.0
+And look how it is done in the past three years. Brilliant. Past three years. Returns are so good. But those returns are idealized returns.
+1659927698.0-1659949994.0
+When you actually will set up that basket, you will have to pay bid offer. You will have to pay a transaction fee. And it could be an account maintenance fee. It could be a per transaction fee. If you go through a discount broker, if you go to a budget broker, you're probably paying anywhere from 15 to 20.15 to 0.2% per trade.
+1659950042.0-1659965970.0
+Right? Right. And then every time you rebalance in three months, every time you rebalance, you are getting an additional cost and long term capital gain taxes, right? Yes. So once you add all of that, what was promised to you and what you get, there's a huge gap.
+1659966950.0-1659987510.0
+So a lot of this I think is also because people don't investment solutions are never framed in this way to them. They are always framed in terms of only returns and never in terms of costs. Okay, what are you giving up to? So if I put it very simply, right? Costs are reality.
+1659988650.0-1660006560.0
+Yes. Returns are expectation. Returns may or may not happen. But if you have to pay 2%, if you have to pay 3% you sign up for a PMS, they charge you blah blah blah. Costs are a real you're paying that cost regardless of whether the expected returns manifest or not.
+1660008050.0-1660031160.0
+I mean I think in insurance again, there is a very popular example. You know, a lot of insurance companies will club insurance and investments together and all that allows them to do is because now there is two things in the same basket right? It's like they're bomingling insurance and investing they can charge a higher spread. Right? Yeah.
+1660031610.0-1660066674.0
+And of course there's a lot been written about it and why people should not be doing this. There's just a lot of work to do in this space. I understand your point of view, but just to be the devil's advocate, if you look at insurance, for instance, or even a mutual fund, there's a vast number of products out there. And the reason you're paying an advisor is because you value that person's advisor saying, my job is not to be a financial investor. My job is to be something else.
+1660066712.0-1660085594.0
+Right? My day job. And I don't have the time to look through the hundreds of thousands of investment products that are out there in the market and then to make a call about which suits me in terms of liquidity, in terms of returns, in terms of my age profile. So I am paying someone to make those calls for me and that advice and value. Right?
+1660085632.0-1660103920.0
+So what would you say to that? Are you saying that we now live in a world where you can sort of pass through all these choices online and you don't need this and telling. You what to buy? Let's try and reim this question.
+1660106850.0-1660121860.0
+If you look at equity mutual funds there are about anywhere from 600 to 700 equity mutual funds to choose from right? Across India there are probably 20,000 advisors if you are.
+1660124150.0-1660157790.0
+Legally registered advisors more. But let's say it's 20,000. Now in a way the claim you're making is that it's hard to find a good mutual fund among 500 choices but I can find a good advisor amongst 20,000. Now from a very high level perspective because not all advice the thing is everything boils down to framing. If you frame it as a good advisor is valuable of course it's a good advisor they are valuable.
+1660160470.0-1660178200.0
+No one can deny that a good advisor is valuable. Yeah but finding a good advisor is multitude harder than finding a good fund in some sense. But with an advisor you find a good one and then you're done. He or she is taking care of it forever. There comes the second problem.
+1660178890.0-1660204480.0
+The second problem is in investing in anything that is related to investing, past has no correlation to the future. So past returns don't predict future returns. Past good advice does not predict future good advice. Someone was a good adviser, they advised some people really well, has no correlation that they will advise you well also and that advice will actually pan out for you.
+1660208770.0-1660239626.0
+A lot of these things, when you reframe them, a lot of these things become clearer. Right? So, I mean every adviser will come and tell you what past returns are, no prediction of future returns. But I can tell you which mutual fund will outperform like how a lot of it is hogwash, majority of it is. So given this tremendous amount of uncertainty, do you think you should be paying 1% per year where that likelihood of outperformance is miniscule to speak of?
+1660239728.0-1660260718.0
+In hindsight, and this is again the other problem in hindsight there will always be one adviser who will say in the past ten years, if you had followed my advice, you will be really rich in hindsight. But the question is money is never made in hindsight. Money is invested today for returns tomorrow. No one has a time machine, right? If you had a time machine, we'd.
+1660260734.0-1660278120.0
+All be so wellly that relatively exactly how the time the market right? That's the other mystery. Right, okay. Yeah, you're talking about in a way everything becomes hindsight bias. So people will give you a table or look at that adviser, he has done really well.
+1660278890.0-1660300490.0
+It's exactly the same thing. There are fund managers who have done really well. Right. But if 1000 fund managers start managing funds and in 20 years it's a certainty that one of them will be the best, right? Yeah, it's a ranking.
+1660301090.0-1660343274.0
+But then 20 years later saying hey, you know what, 20 years ago you would have invested in this fund manager. You would have had 50 tell me today which fund manager to invest in. No one will give you that answer. Again, it's a framing issue because you speak of the past but in a way that it is predictable in the future, but it is not okay, so now comes the second part. A big part of the actual value that an adviser adds is around things like goal planning, things like portfolio allocation, things hedging investors to not sell when the markets are down or not buying too much when the markets are up.
+1660343312.0-1660368706.0
+To sort of emotionally handhold you and. Providing them a lot of information about funds which investors may or may not care to get themselves. Yeah, a lot of these things can be very easily solved by online platforms and online platforms are solving these problems. What online platforms cannot solve is that our predictive ability is no better than an advisers. So it's not like we come in here and we claim, hey, you know what?
+1660368728.0-1660389654.0
+We have a secret. Some platforms do come and claim that they have a secret sauce and within a few years, people realize they don't because these things can be tested right. Saying something. And this will lead us to a very other, very interesting segue also. So a lot of the real value add that an advisor is doing can be done by online platforms at scale.
+1660389702.0-1660407646.0
+So you don't need to charge 1% anymore. Advisors charge 1% because they are literally selling their time. An individual advisory is not a scalable product, so they will have 20. So they have to charge appropriately for it to be worth their time. Once you come to the platform model, it's infinitely scalable, so the cost has to come down.
+1660407668.0-1660435606.0
+And that's what's happening. Right. The other segment that I was talking about is a lot of times you will hear about advisors talking about non tangible outputs, okay? Because non tangible outputs, like emotionally handholding and investor, like you said, there's no feedback loop there, but saying that my fund will outperform, it's a verifiable statement. There is a feedback loop.
+1660435638.0-1660452240.0
+Three years down the line, I will say, dude, they didn't, but I emotionally handheld. You I mean, maybe you did, maybe you didn't, but totally can be constructed. Convince themselves someone that they were actually handheld emotionally. Right.
+1660454290.0-1660472530.0
+These are not peculiarities of this kind of job. Let's see, any job where true success is dependent on a very high level of predictability over retailing becomes an easier way of making money than actual performance. Right? Like a startup. Like a startup.
+1660474250.0-1660476360.0
+I'm not denying it. Right? Yeah.
+1660478810.0-1660492780.0
+Startups have a very high level of failure and predictability is very hard. It's not like BC Burns make ten investments and eight of them flourish. No, maybe one or two of them flourish. Right. It's hard.
+1660493790.0-1660502590.0
+Exactly. For the same reason storytelling becomes easy. But there is a slight difference. Okay? Startups have a lifetime, right?
+1660502740.0-1660515730.0
+So future VC investments and future opportunities depend on actual feedback loops. So you have to show the numbers to get to keep going. You can't keep on going just on storytelling.
+1660517750.0-1660539398.0
+Okay, I agree. So tell me about how you slotted Kuwera into this space. Do you see yourself as a Robo advisory or do you define yourself differently? And what are the things that you can do as an online platform versus individualized personalized? We find some of these terms very limiting.
+1660539494.0-1660559870.0
+When you think about Robo advisory, what are the legal implications, what are the regulatory implications? What is advice? Right. If you lost, sebi has a standard of advice which literally means that you need to know everything about the end client before you even tell them anything about how they should be investing. Okay?
+1660559940.0-1660578806.0
+When you look at people, when you talk to end users, and when you ask them, what is advice for them advice is anything that has a positive impact on my future wealth is a good advice to me. So they don't differentiate between what you would technically call a nudge versus what you would call advice. Right? Okay. Yes.
+1660578908.0-1660597760.0
+We think of ourselves so primarily, we think of ourselves as a platform that has certain tenants that we work on. Right. So there are certain that we are not going to do. We are not going to be pushing products on you. We are not going to be forcing you to invest in funds ABC or D.
+1660599090.0-1660617700.0
+And along that journey, we want to develop simple, intuitive tools that will help you become a better long term investor. And these tools have to be, like, absolutely simple because you add a little bit of jargon, simple stuff. Right.
+1660620150.0-1660631666.0
+A simple email. Right. Like, we send out this email every year. Every year, when you complete one year of your Sip, we send out a anniversary email saying that, hey, you know what? You have done one year of this Sip.
+1660631698.0-1660642554.0
+You should increase your Sip amount by 5%. Okay. Right. Now, the thing is, it's highly targeted, and it is done at a very it's almost like an intervention. It's done at one year.
+1660642592.0-1660653086.0
+So it's your anniversary. There's something to celebrate. And at that time, a lot of people are very September on adding that money. But upfront. If I ask someone, hey, you know, what?
+1660653108.0-1660672206.0
+Do you want to add 5% to this Sip every year or 10% to this Sip every year? Very few people will actually choose that option. Okay. So for us, what it boils down to is what's the right time to nudge that investor? What is the right nudge for that investor?
+1660672238.0-1660692490.0
+Right. What is the right kind of framing? So that something which we think of it as very simple financial principles. They actually accept it and they actually implement it, because at the end of the day, theory can only get you that far in investment. Money has to be invested, and it has to stay invested for any long term.
+1660693710.0-1660720900.0
+Excel returns are not real returns. Right. So how do you get to that point where money does get invested and then stays invested and incrementally gets added over time as an investment behavior, which leads to good investment outcomes? Okay, I want to look at what your in the past life, you're an advisor at Morgan Stanley, right.
+1660723430.0-1660728200.0
+Okay. Did you have clients you advised on? No.
+1660732890.0-1660758442.0
+Because I wanted to ask you if you saw some investing patterns there which you now can sort of compare and contrast what you're seeing in Kuwera in terms of your data, how your clients that's the way we invest. But pro trading is completely different, so then you probably can't there are other. Advantages in proper trading. Our transactions costs are not as high. There is leverage that is built into the way a bank operates.
+1660758586.0-1660786714.0
+Right, okay. There are a bunch of advantages. And our threshold returns are the cost of capital of the bank. It's a very different people think of it as like it's a very stylized investment environment where actually your reward per unit of risk is way more important than your absolute returns. So they look at what is called the sharp ratio returns by risk, by risk, rather than looking at returns in an absolute number.
+1660786752.0-1660805150.0
+So it's very hard to at longest time for us, shorting was very easy. We do run a long short book. We are mostly market neutral. It's a very different way of thinking about investing within a bank's ecosystem than versus what a retailer retail investor would want. Right.
+1660805220.0-1660828534.0
+Any of those things. Let me rephrase that then. If you grew up in India, and I would assume that I grew up in India as well, so we've always had certain conversations about money, about where money goes in our childhood. Right. And India has traditionally had a very high savings rate.
+1660828572.0-1660863522.0
+So it's for people who grew up in salaried middle class homes. Once you get your salary, there's always a chunk that goes into savings before monthly expenditure, which is a little different from how, say, people in the west trained in terms of money and financial investment. Recent data shows that India saving rates has fallen dramatically. So some highs of 30% in the only for thousands. So now it's come down to 10%, sometimes 2000% to 14%.
+1660863576.0-1660882834.0
+But have we changed? Has the has the millennial generation, has generation G? Has our relationship with money changed? Relationship with money? I'll give you less of an anecdote, but it's an interesting perspective.
+1660882882.0-1660883480.0
+Right.
+1660886590.0-1660891020.0
+There is a bar built India right now, right?
+1660893150.0-1660911966.0
+One of the easiest ways to think about this is you take look at the China example, right? If you are a kid in China today, you're 20 years old today, right. You are the third generation of one child, one family, one child. Yes. You are going to inherit the savings of your two parents and four grandparents.
+1660912158.0-1660916180.0
+Okay? Right. You still need to save 30%.
+1660919110.0-1660940380.0
+Now, young people in China are refusing to work altogether. Same reason, 5000, whatever, like equivalent to, say, one lakh rupee job in India or whatever it is, you spend all of that money on bags and shoes. And stuff like that, right? Yeah.
+1660942670.0-1660964180.0
+Our parents saved a lot because there was an insecurity. Then your relationship with money is defined by what is your backstop? If your backstop is that you're going to inherit three houses, two cars, and I don't know how many tolas of gold and bloody this much amount in your bag, would you save?
+1660968310.0-1660984646.0
+So that's one end of the barbell. The second end of the barbell is still that emerging India. And that's emerging India. Some of them maybe did not have that much don't have that much income to save. Most of the country still makes less than five laks a year.
+1660984828.0-1661000526.0
+Actually less than three lakhs a year. They don't have that much money to save, actually, because that's a state and living. But they will still save whatever they can. They will still go out and buy gold and HunterAs. They will save through all of these religious festivals we have all over the country.
+1661000708.0-1661019570.0
+And they'll continue to do that. But the pendulum is swinging towards a middle class, upper middle class, where every kid in India and in India also our demographics are also peaking, right? Yeah. But it's not like I think the. Fertility not going to stay young much longer.
+1661019640.0-1661045734.0
+Fertility rate is fertility rate is now less than replacement in that scenario. While we don't strictly have one child policy, but it's very close to that. And if you are going to inherit all this wealth, then you start thinking that, do I really need to save as much so that millennial crowd is then spending? Right, of course. Then people will market it as, okay, you only live once.
+1661045872.0-1661047070.0
+They're not reckless.
+1661052690.0-1661064420.0
+They might be doing some things which may not agree to our sensibilities. Okay. But they may not necessarily be irrational. They are just being driven from a different vantage point.
+1661067190.0-1661092890.0
+Okay, do you think that because now millennials, the younger generation are able to use platforms like yourself, like Coveras and like Cobra and many others, that the sense of agency for them is empowering? Do you feel like once they start doing it, then we're willing to keep investing?
+1661096290.0-1661119022.0
+You know what they say about contactless payment, right? Yeah. It makes you more of a spend trip because that entire physical or that entire you know, my dad used to invest by writing checks. I think till about 2010, most people invested by writing checks. There was a physical act required.
+1661119086.0-1661124520.0
+Right. So it was almost like you're giving that money away. Clicking a button to do that is not the same.
+1661126890.0-1661140810.0
+By removing fiction in any process will increase adoption. That is like a given. Okay? Investing is not unique in that sense. People will spend more on cards.
+1661141390.0-1661169698.0
+People will spend more when you don't have to count money, there is no sense loss when you are giving it to someone clicking a button, there is no sense of loss. Of course that will happen. There are also more financially literate in some sense. There is a lot more, I think financial literacy, which is more readily available on the channels that a lot of the younger generation frequent. Right.
+1661169864.0-1661190166.0
+Think about what you are doing. What we are doing right now is that was not available ten years ago. Multiples. Now multiply this 20 x, 50 x, 100 x. Think about some of the at one time, if you thought about media in India, you would have thought about time with India.
+1661190358.0-1661210340.0
+Now said, for a large majority, media is money control. Media is Livement. Financial information has kind of become like a staple of the bouquet of information that a person consumes, and it's not considered to be a particularly specialized field. Okay?
+1661212390.0-1661217780.0
+Startups use this word very liberally, but there is that democratization that is happening. Okay.
+1661219830.0-1661265300.0
+When you mentioned removing friction in the investing process, I remember that I'm a user of Quira, so I receive your emails, some of them very interesting, which have helped me in my own investment journey. I remember this one particular email where I think the markets within the time where markets were falling dramatically, and you were telling your clients to don't be rash, don't try to exit right now. And you gave this example of how when you personally feel like you need to take action, when there's information there's something happening in a certain environment, you do some small transactions. Yeah, exactly. It's just having to do something away.
+1661266630.0-1661285874.0
+So has that advice worked? Do you feel that there's a lot. Of people have come and said that things like that because, see, again, if you talk about it in a bull market, people will not understand it. So that timing of that intervention matters a lot. It has to go out.
+1661285932.0-1661294362.0
+We sent that out in March, I. Think it was last year. It wasn't this year. It was really forward. Exactly.
+1661294416.0-1661315170.0
+It was March 2020. And we sent out an email saying that, you know what, just don't take any rash actions. If you think about doing something, do a small investment and just be done with it. And if you can afford it, don't look at your investment for some time, but a long investment journey. We could have also claimed that we emotionally handheld, our investors.
+1661316070.0-1661346154.0
+It felt to me like emotionally being handheld. This is what we call like it was a nudge, right? It was something that if you do it in the right format and at the right time, it is very powerful because a lot of times individuals it's not like what we wrote was anything which was rocket science or which you didn't intuitively already knew. You probably already know these concepts intuitively. Every smart person does.
+1661346192.0-1661364434.0
+Right. It's just that at the right time, when it comes as a supporting that okay, you know what, this is actually the right way to think. Just stick to the path. It just helps you continue and not kind of start second guessing yourself. Because when markets are crashing, the biggest fear people have is that everything is going to go down to zero.
+1661364632.0-1661390330.0
+Right. People sell because it's literally people sell for two reasons when markets go down, right? One reason is purely markets are procyclical to the economy. So when economy is doing bad, people are losing jobs, they will need emergency money, and a lot of people will not have their emergency cash, so they will dip into their savings. So there is a genuine need for liquidity.
+1661391230.0-1661404762.0
+And it just so happens that it comes at the worst time for that investor. And second is because people are like jitnabaja, whatever is left, I need to take it out. Yeah, take your money and run. Take your money and run, right? And it's the second kind of investor.
+1661404826.0-1661415698.0
+First investor has a genuine liquidity need, right? It doesn't matter what you write to them, they need the money they are going to sell, right? They need the money. It's almost like there is a family emergency. You need money, right?
+1661415704.0-1661443066.0
+It doesn't matter what the adviser says. You're like, dude, I need the money, I need the money. It's the second kind of investor where they might start to second guess, then giving them very simple constructs, right? If you look at 15 year history of Nifty and someone comes and tells you that in the past 15 years, nifty has done 13% per annum, whatever, the number is 1230 percent. That 15 year history includes multiple time periods where it fell by 30%, 40% and so on and so forth, right?
+1661443088.0-1661462946.0
+So why is this time any different? So contextualizing things makes it easier for people to just continue to be invested. And like I said, you have to invest and then you have to continue to be invested. If you do these two things well, everything else is noise. These are the only two.
+1661462968.0-1661482386.0
+And what matters in investing is very simple. What pays in investing is to make it super complicated. Add fear, addo we can time the market wire settled for 14% when we can generate 30%. Yeah. Okay, so tell me a little bit about Covera.
+1661482578.0-1661501514.0
+You started off, if I remember correctly, as essentially a mutual funds platform. And now you've expanded into different categories altogether, even digital gold, crypto, digital gold. We have shut down digital gold because Sebi said that advisors cannot do digital gold. Okay. Same thing with crypto.
+1661501562.0-1661518610.0
+Advisors cannot have crypto on their platform. So we don't have digital gold or crypto. Have you allowed to use it was something, an opportunity that you wanted to be in? Yeah, see, there are two things about it, right? So as a platform, there is availability and then there is suitability.
+1661519350.0-1661530770.0
+And you cannot mix the two. Regulators can, regulators can come and tell us these products can be on the platform, these products won't. And we'll follow regulation. There is nothing. I mean, that's a very, that's the line of the standard of regulatory.
+1661530850.0-1661567346.0
+But the way we think about it is that there are individual stocks that can go down 80, 90% and there are individual stocks that can go up five X. And understood that crypto may be more volatile than stocks, but then who decides what is the right level of volatility that an investor should or should not take? Okay, for us, the mental model is that if regulation allows it, we should make that asset class available to the end user. Okay? But then we should inform that end user that for you this may not.
+1661567368.0-1661607166.0
+Be suitable, or you should not have more than 5% in your portfolio, or this is the right kind of investor for which this product makes sense. So the suitability based nudge is where we can outshine, but availability is something that is almost like when it comes to availability, you have to kind of think of it like an ecommerce marketplace. If the product is allowed by the regulator, then it is our duty to make it as easy for the end user or the end investor to be able to invest it. Okay. Suitability burden that we have is to keep on reminding them that, hey, you know what?
+1661607188.0-1661630550.0
+Just because it's available doesn't mean you should partake in it, okay? You may not be the right investor for this. Someone else might be. So at a time when these investment avenues were still available on online wealth management platforms, did you see a larger proportion of your investors experimenting with it? So crypto was never live on our platform at all.
+1661630700.0-1661661034.0
+We were still kind of debating whether we want to launch it or not when the regulation came, so we never launched it. You can just go and check crypto prices, but that's all you can do. Okay. When it comes to digital gold, yes, digital gold was live on our platform, and digital gold, the digital gold for us, and at least the way we thought about it, was that it's just a manifestation of physical gold, which, anyways, a lot of unions invest in. And there is some benefit of having gold in your portfolio.
+1661661162.0-1661673418.0
+And that's what portfolio management theory also talks about. None of this is stuff that was unique to us. Right? So digital gold just became like that. Okay, you want to invest in gold, then why think about gold mutual funds as gold?
+1661673534.0-1661698910.0
+Just hold physical gold, but in a digital form, and we'll just make that journey easier. That was the thought process. And people did like the product. People did want to hold digital gold until the regulation came that we had to shut it down, and then we shut it down. Okay, so can you tell me a little bit about covera's investors?
+1661699490.0-1661724006.0
+Do you categorize them by age, by generation, by gender? What are the other insights you can draw from? Like I said, right, I think we are an online platform, and of course, we will skew younger. So I think the majority of a user base is 25 to 35 years old. The average platform is probably somewhere in the 31.532.
+1661724028.0-1661751360.0
+That's the average age. Okay. Investing in India is still quite skewed towards men, but not as much as it used to be. Okay, so on our platform, we now have close to about 27% of investors are female. And this number, if we look back based on kind of some of the historical data we have, was as low as, like 1213 percent when we started.
+1661752290.0-1661762222.0
+Doubled in the sense that is changing. And that's a very powerful trend and hopefully it continues. Money is money. Everyone needs to save, everyone needs to invest. It doesn't matter.
+1661762276.0-1661771460.0
+Right? And honestly, we would want to make investing so easy that a lot of women might not think, oh, that's a man's job. There's nothing called a man's job. There's nothing called a woman's job. Right.
+1661771990.0-1661796614.0
+So that's a good trend. Most of them, if you think about demographics, and most of them are salaried close to about 67, 68% of salaried. Most of them they rent. They don't own a house yet. So I would call a large majority of them as a worldly mobile.
+1661796662.0-1661811440.0
+Right. So their average portfolio size on Cavera is roughly about eleven and a half lakhs. Okay, so you wouldn't necessarily call them middle class in that sense. I would call them what we call mass affluent. Okay.
+1661811890.0-1661829160.0
+They do have multiple relationships with us. They'll do an FD, they'll do some US stocks. They will invest in stocks through our small case interface. So you'll have all of those, but majority of the asset is still mutual fund and that's the core play for us anyway. Okay.
+1661832170.0-1661847706.0
+That'S a pretty good, I think, picture of who invests on coveira. Are there new products, new investment avenues? You're considering that? We're always looking at client bases. We are always looking around and then our user base is always reminding us, right?
+1661847728.0-1661863520.0
+I mean they'll come to us and they'll say, hey, have you looked at this? Is this something that you think you should offer on Covera? Right? And we never think about whether we should offer something on Covera or not based on whether we personally like the product or not. Okay.
+1661864370.0-1661883206.0
+The first is that regulatory, it should be allowed, meaning you, all of you on the right side of regulation. No doubts about that. Second is, is it a liquid and deep market? Because what happens is there are a lot of these investment products that become hot, a lot of people buy, but then there is no liquidity to sell. When you need the money, then you're stuck in it.
+1661883228.0-1661892714.0
+Right? So we have looked at a lot of like pre IPO stuff. Is that open to retail investors? Pre IPO. Yeah.
+1661892832.0-1661907886.0
+There are some pre IPO platforms as well. And then we also looked at how big is that market? Right? I mean our investors really do our investors really want to invest in it? Or there is just this one investor who finds this very interesting and would want to explore it.
+1661907908.0-1661930742.0
+Right. The front side of the question is definitely something that we do look at right now. If I have to think about it, then probably the most requested asset on Covera is broking. That we should look into setting up stock broking and so that people can buy equity directly on the platform. Is that something you're interested in doing?
+1661930796.0-1661945914.0
+Because that's a whole different business. It's not necessarily a whole different business. To be very honest. It's been run like a whole different business. Broking historically has what I mean is the direction that these businesses grow in is the other.
+1661945952.0-1661966786.0
+Like, they start off as brokers and then become and then sort of diversify into wealth management. Because effectively what happens is right. Broking is one business that has been and I see this globally, by the way, india is not an exception. No one has ever built an investor focused broker. They all say this, okay?
+1661966968.0-1661980742.0
+But every broker that I look in India, every broker that I look abroad, their basic metric is churn. They want you to churn? Yeah. How they make money. The more you trade, the more they make money.
+1661980796.0-1661988442.0
+Right? Exactly. Right. This is a simple thing that I've and I've posted this publicly also many, many times. Right?
+1661988576.0-1662016494.0
+Not a single broker. See, every broker says that they are democratizing investing. They're making their investors rich. Now, if it was genuinely true, they would show you portfolio returns, because portfolio returns are the easiest indicator to show that, hey, guys, you're making so much more money, right? None of them show you portfolio because most portfolio returns on brokerages, they absolutely suck.
+1662016542.0-1662017140.0
+Right?
+1662019270.0-1662035282.0
+There have been a there was a study that was done on the Taiwan Stock Exchange. They looked at all the trading, retail trading data on Taiwan Stock Exchange. And the average retail trader that underperformed the index by it was like four and a half or 5% per year. Okay? Massive underperformance.
+1662035346.0-1662060286.0
+Right. There have been studies that show that less than 1% of active traders, these are people who do day trading, actually make more money than the empty rate of return. So there is a reason why brokerages today will show you daily profit and loss. They will gamify the whole experience like you're playing a video game. Hey, I hit 50 points here.
+1662060308.0-1662082214.0
+I lost ten points. But they will never tell you what was your overall portfolio return as an individual? What matters to me is that I started with RS100. My average rate of return was X, and I ended up with 1000. If I made Rs10 on a trade and lost RS5 on another trade, that's just noise at the end of the day.
+1662082252.0-1662108586.0
+Right. But no one will show you and this is true in India also. This is too globally. So while you're right that broking is a different business, but I think that's because people have run broking very differently and there is a huge opportunity to build a broking business which is very pro investors. Okay, so you're saying the analytics that I really like the analytics you have for my mutual fund investments, for instance, this is how much money you put in.
+1662108628.0-1662110740.0
+This is where your money stands today.
+1662114630.0-1662128966.0
+I've been a financial journalist, and it was hard even for me to calculate this for every month. It was amazing to find a then. You have to keep a track of all your historical trades. You can automate it and then everyone has that. Right?
+1662128988.0-1662148320.0
+So I think there is a lot of very investor friendly innovation, not broker. See, brokers have done a lot of broker friendly innovation, but I think that's a huge opportunity to have investor friendly innovations in broking that can make a very material impact. So you want to bring those kind of analytics to your broking business.
+1662150690.0-1662176082.0
+For us, it's always been that how can we make a broking business? Which is revenues are important, there's no doubt about it, but which are really good for the investor in the long run because that creates stickiness on its own. Okay, last question. Fintech has become a rolling, crowded space in India. We see across different categories of financial technology, right?
+1662176136.0-1662201102.0
+From if you're in the saving investment space, there are people who give you peer to peer lending. There's immediate, you can go on Amazon and while you're shopping, you can also get a loan. So that all of it. Fintech, all of these different possibilities for your money are available online. So how do you, how does covera stand out?
+1662201236.0-1662225030.0
+What are your plans for setting yourself apart from the rest of the market? Part of it is, like you said, analytics and providing that kind of information. But besides that, before I answer that question, I just want to contextualize the first part of it as well, right? So I'll just say two things, right? So one is finance is truly a domain that can be end to end automated.
+1662226090.0-1662258506.0
+So the economies of scale that technology brings is ideal for financing. Okay? So any financial transaction you think of, there is an end state where it will have no physical or offline step at all. Okay? So we are not finance is not limited by the economies of scale in the offline world, right, which a lot of other businesses are because you have to deliver something that it's a physical interaction.
+1662258698.0-1662279366.0
+So that's why it makes it a very interesting case for a lot of startups to be looking at this. Okay? Now the second piece is that I don't think there is any vertical in India that doesn't have a lot of competition. Finance has a little bit more competition, for sure. It's a much larger market, so a lot of people want to buy it.
+1662279388.0-1662304430.0
+And secondly, there are certain innovations which are allowed in other vertical. Right? So finance, surprisingly, as an industry, finance is so heavily regulated, you win on efficiency and not on innovation per se. Okay? Now coming back to the point in this space, how do we kind of differentiate us?
+1662304580.0-1662320610.0
+Our focus is like if we think of the traditional kind of at least in the investment, we think of the traditional investment businesses, right? And it's a single point agenda. How do we make it as investor friendly as possible rather than as broker? Or as distributor friendly as it used to be. Okay.
+1662320680.0-1662342330.0
+And not a lot of people are willing to bet the entire kind of company on that channel. Okay. So in this space that you are in, the way you described it, where economies of scale start to make better sense, the more number of users you have is aggregating users your highest goal?
+1662345150.0-1662352800.0
+I think aggregating users is an outcome of having really good investor friendly products on the platform to begin with.
+1662355650.0-1662374866.0
+Is that your measure for success at Kobera? That you say? Yeah. How many investors that we are touching, how many of our various tools they are using, how much money we are saving in commissions, how much tax savings are we enabling? Those are all really like for us.
+1662374888.0-1662390390.0
+They are like the KPIs that we are really targeting, and that is what we are looking at. And the more number of investors we have, all of these numbers become bigger proportionately. Right. Okay. And finally, Gaurava, what are you invested and how do you invest?
+1662390460.0-1662404074.0
+Where do you how would you execute your investments? I'm a very boring investor in that sense. I mostly invest in mutual funds. I mostly invest in index funds. So a lot of the things that we talk about in covera is exactly how I manage my investments.
+1662404122.0-1662426120.0
+I am a very goal based investor. I rebalance when my investments are away from the target by a certain amount. I'll do very few macro calls. I do tend to move into riskier assets when markets fall. So my mental model is very simple.
+1662426650.0-1662437274.0
+When markets are crashing, I go into small cap funds. And when markets are rallying, I go into large cap funds. Okay. It's literally the opposite of what anyone will tell you. Okay.
+1662437392.0-1662458190.0
+But that's what works. Right. And again, this is dependent. This is based on my risk appetite. I've been a prop trader, so I know that I can take I don't get into a frenzy by risk or by what is called paper losses.
+1662458850.0-1662473000.0
+Right. So if you have that ability, this actually works brilliantly. Okay. And do you have an advisor who emotionally hand holds you? Not really on our own platform for that.
+1662474810.0-1662480774.0
+All right. Thank you so much, Carmen Joy, nice speaking with you. Thanks so much for your time. Out of time. Yeah.
+1662480812.0-1662486610.0
+Thank you. And hope you can keep in touch and keep talking in the future. Have a great day. You too. Bye.

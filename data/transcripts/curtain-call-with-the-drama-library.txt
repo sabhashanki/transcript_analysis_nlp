@@ -1,0 +1,310 @@
+1659459850.0-1659482586.0
+So hello and welcome everybody to Kulk. We are a platform that's all about conversations and we are here on Curtain Call, which is our theatre show. And we have with us three very special guests. One is still going to join us and we're going to talk about an interesting project called the Drama Library. So we have with us Vivek Madan, Vishnu Narayan and Falguni Rao.
+1659482618.0-1659502780.0
+Vivek is the director of the Bhasha, a center for performing arts. Vishnu is the technology advisor on the project and Falconi Rao is the chief librarian. So, welcome to all three of you. I'm really happy to have you here rent to talk about this project. So, yeah, Falconi, we can finally see you.
+1659508110.0-1659522270.0
+On this fascinating new platform. Thank you for that, Vivick. Thanks. And thanks for coming and talking about this. So, I just want to start with, I think the most obvious and first question.
+1659522340.0-1659529120.0
+I didn't want to be the one doing the introduction, but could you start with telling us what the Drama Library is all about?
+1659531330.0-1659532080.0
+Sure.
+1659575750.0-1659581940.0
+There's some disturbance that I can hear, like broken past. Yeah, if you can bring that through, I think it'll help.
+1659585930.0-1659591510.0
+So the Drama Library is, as the name suggests, a digital library of unpublished.
+1659594170.0-1659644040.0
+It was essentially something to provide access between readers inviteers and readers could be just casual readers or actors, directors, producers, teachers, educators, and of course other writers as well. Scripts that are being written that have been written, translations that have been written, dramatic material essentially from across the country. That's weird, right? The platform is live and I have taken a look at it and it looks really interesting even for somebody who is just looking to read, because there is such lack of access when it comes to plays in the publishing sector that I feel like this is an exciting opportunity for theater makers, but also for ordinary people like us.
+1659646250.0-1659662140.0
+I want to move on to asking you, I know I've asked you this question a few times before, Vivic, but to all three of you this time, how and when did this project come to be? What was the process? I know you've been working on it for a really long time. Yeah.
+1659666690.0-1659685240.0
+In the first wave of the pandemic. It's something that we tried to do in some fashion before that with Playwriting Workshop and we've just.
+1659702490.0-1659703830.0
+Some disturbance.
+1659709490.0-1659712030.0
+I think it's the wire. If I'm not selling.
+1659719650.0-1659722720.0
+I bought those in an airport, I don't know how good they are.
+1659726630.0-1659728500.0
+I prefer it without as well.
+1659731110.0-1659734130.0
+We started this as a blog for that particular workshop.
+1659736490.0-1659774270.0
+And I have always been interested in creating networks, in creating infrastructure scaffolding for the ecosystem, the existing community, because I think that's what's actually missing these days and has been for a while. And now we had the wherewithal to do it. We had the time to do it because of all of us being stuck at home and not actually rehearsing or working on a play, which is what we're usually busy with. And Vishnu is a tech wiz, has been my go to tech person for I don't know how long. I met him as a director first and then as a playwright and then he's had many avatars in my life.
+1659774420.0-1659797510.0
+And so I was talking to he said yeah, it's possible. And then we started chatting and then we pulled more people into the team and then we decided what platform we'd use. We had our ups and downs, all of that and then about a year and a half later is when we actually went live with it. Right. So you've been working on it for a year and a half.
+1659797580.0-1659839478.0
+I mean, I'm sure you've been talking about it for much longer. Yes. What particularly about this idea like a library, although it has been part of the larger kind of multiverse ecosystem that we want to build which basically allows for greater, more transparent access for people who want to do more work. I think all of us in this room and the others at Tasha Center, we are all makers ourselves in some way and whether we do or not, really, that's our personal choices and journey. But at Fashion Center, what we are keen to be is enablers of other people's work.
+1659839644.0-1659856300.0
+Right. So the Drama Library is the first project. We've got a couple more on the pipeline which we can talk about a little later. So conversations around this have been happening for a while. If you talk to Ramadanish Kamathami, he'll tell you that Vivek has been talking about this for, I think since we were children.
+1659857870.0-1659865840.0
+Some other people who talk about it, they say, oh my God, this Vivek. Never just tell him to stop it or just get on with it. Well, now we have got on with it.
+1659869010.0-1659895720.0
+Also to add on to what Vivek is saying right. There was this sort of blog that we created at the end of the Writing Workshop, but a perennial conversation that has existed through many such programs. And like with many playwrights, we're starting off with Vivek in the midst of it or without awakening in the midst of it is now we are starting off as playwriters. We have written a play. If you do not have the skill sets to produce it ourselves or direct it ourselves, what happens?
+1659897290.0-1659920526.0
+Even with the blog that we created for the Playwriting Workshop, people do go to it at the moment that you publish it. When we put it on our social media websites, the seven plays have come out and people read it. But after that, what happens to it? Right? And so almost always somebody who's starting off also then needs to find somebody to direct it, to produce it and other things.
+1659920548.0-1659930100.0
+So there's always been a conversation around what happens to work of works of playwright who are just starting off who are not well known in the community.
+1659933430.0-1659942120.0
+When you ask if the conversation existed before, I mean, conversation existed in these silos to find out what could be possible solutions to this.
+1659945210.0-1659983262.0
+Essentially, it's acting as a sort of a bridge between playwrights with existing plays and with no means to take it to somebody who can produce it. And theatre makers who are looking for these plays. Essentially, yes. And my idealistic dream is that because works of dramatic writing are also literature, that it also attracts a wider audience of just people who are interested in fictional words and different perspectives. As interested as they would be in perhaps a new novel or a new compilation of poetry that released.
+1659983326.0-1659993526.0
+I'm hoping that plays gain that kind of status on people's bookshelves. Right. In this case, virtual ones. So that's great. Yeah.
+1659993628.0-1660009500.0
+So if you could tell me I have taken a look at it, but for the benefit of other people who are listening in, you can tell me what the Drama Library has so far in terms of the kind of plays, the number of plays, what's available at the moment over there.
+1660014290.0-1660015520.0
+Yes, we can.
+1660018210.0-1660027650.0
+We have about 250 plays now recently. We got a bunch of places that we're still in the process of uploading.
+1660029990.0-1660055910.0
+We have place in multiple languages, including Hindi, English, some in Canada, there's some stuff in Gujarati, lots in Marathi. And we are looking to expand into other regional languages as well. We have one in Tamil and one or two in Tamil and another one in Malayana. And we have playwrights such as the Pica Urban. We have Neil Chaudhry.
+1660055990.0-1660073380.0
+We have Ramu Ramanasan. We have Yukanda Deshbande. We also have his place as well. So it's a good mix of young and older pay rights as well.
+1660075590.0-1660103466.0
+Our thing is we'll keep expanding only and we hope that we get more and more plays. Interestingly enough, months after we launched, a Ukrainian playwright uploaded an English translation of his play on the library and we're like, okay, so I guess now we are international as well. Oh, wow. So, I mean, you are not restricted to Indian languages any longer. The way you started out yeah.
+1660103648.0-1660125218.0
+The way the platform works is that anyone can upload their work. So you can be sitting anywhere in the world. All you need to do is fill up a small form with the details about your play and you upload your script. That's all. It's easy to access, not just for readers, but for playwrights themselves.
+1660125304.0-1660147706.0
+Like, they don't have to sit and write like a lending, hey, can I please add my work to your libraries? Something they can do it of their own account. Okay. And is there some sort of a vetting process that follows that or does it upload directly? How do you go through the we.
+1660147728.0-1660151660.0
+Don'T have any gatekeeping or quality control in that sense.
+1660154510.0-1660175870.0
+Our only thing is it should be a play script. It shouldn't be a film or a television like a screenplay. So that's the only wedding in that sense we do. But apart from that, there's no bar at all to upload any of these. And then you can have plays of any duration.
+1660175950.0-1660199640.0
+They can be 5 hours long or they can be like five minutes long as well. And it's across like mediums. We have radio dramas as well, three radio dramas, different forms of theater medium. We are going into that. Right.
+1660200750.0-1660223230.0
+That's quite interesting. So there is a question in the audience which I'm going to take up. I think we will get to that. That's always been the first question that has come to me when you told me about this. But I want to go into talking about the interface as well which I think Vishnu will be able to tell us.
+1660223380.0-1660238120.0
+The one thing that I found rather interesting and that weaker also mentioned was when you look at the play there's a description and straight away you get to see the duration. So I want to understand what is the interface like, how can you search, what's available, what's unique to this platform?
+1660241210.0-1660281074.0
+Sure. So the entire experience that we sort of wanted to give to anybody who's using it was somehow sort of a replica of what you would do in a traditional library. So the two things that you would do in a traditional library is that you would search through a catalog. You have certain of searching through a catalog, so you have that as a search page. And so you can search with specific criterias of the play, which is, let's say, the name of the play, the name of the playwright, the duration of the play or not the duration of the play, the genre that the play sort of falls under, and the language that the play is written in.
+1660281192.0-1660300730.0
+So you have a certain way of sort of searching through the catalog. And of course, the other sort of core part of the library experience itself is the ability to read which then the search page sort of allows a reader to navigate to the reader page and view the uploaded script.
+1660303550.0-1660360858.0
+The primary concern for this entire workflow design and this user experience design is to keep it uncomplicated clutter free and to the point that was the sort of thing that was driving us to make decisions about the thing that this has to be. To the point this has to be agnostic to technological capabilities of people or technological acumen because there could be users who aren't very adept while using Internet or as simple as we can keep it as agnostic to technological acumen as we can keep it. So that was the driving force behind this, of course, with a lot of design elements and color choices that you see the basic principle was what would aid stress free reading. It shouldn't stress your eyes, it shouldn't cause fatigue. So those were the more branding exercise.
+1660360954.0-1660394840.0
+The primary concern was to sort of give us stress free reading experience. That's why you see colors which are more like towards the there's nothing bright that automatically strikes out and sort of catches your attention that way. So yeah, it is the digital experience of what a physical library would give you like a quiet, stress free environment to browse through a catalog and pick a book or a play, in this case of your liking and just sit in piece and read it.
+1660400730.0-1660432900.0
+That's what I felt to the aesthetic is much like an actual library. There is something that doesn't pop out at you and makes you feel comfortable at large. So I think the one big question now I have is that what was the process of bringing these plays together? You mentioned that now you're in a stage where anybody can upload a play and there's virtually no gatekeeping. But when you were soliciting these plays, what was your process like?
+1660433270.0-1660437330.0
+Who goes up and who doesn't? What goes up on the drama library?
+1660439350.0-1660475634.0
+So we first started out with our own circle of playwrights we knew. So even at that point there was no such thing as we want this person plays and not this person. It wasn't like that was more like a question of contact and reaching out to them and them responding to us. So it involves reaching out to multiple playwrights, people we knew and then asking those people if they know someone who would be interested in this. So it was like a trees roof, basically branched out and branched out and branched out.
+1660475672.0-1660477620.0
+So that's how we went about.
+1660479670.0-1660518190.0
+The initial people you reached out to were within the theater circuit, were published playwrights or what was that like? No, most of them were unpublished playwrights only. We have a few published place, but even people who were within people we knew their place were either like not performed or they've been performed a bunch of times or we just happened to know they have written a place. So that's how we reached out to them and we were like, give your play here, upload it, see how it is. And yeah, that was the process initially.
+1660518610.0-1660547640.0
+Right? Could you give me some examples also in this case when you say there were people who you knew had written place and they weren't published? If there are examples of published free rights who are on the platform as well. We have Manjima Chattergy published. We also have Annie Zaddy works some of her place.
+1660548650.0-1660578660.0
+My whole thing of reaching out started with Vivik has a lot of contact. He practically knows every theater person in Bangalore and he shared the email address and that's how it started off. He knew a lot and then I got some of my drama to upload. So we have college people also who shared their written stuff during college that they've uploaded on the platform.
+1660582310.0-1660615840.0
+If I can just add to that in terms of examples. So it was a funny thing that happened because we wanted to we originally started out as being a library of unpublished plays, and we still are that. We still call ourselves that. But when we started reaching out to playwrights friends and other acquaintances or people we didn't know, a lot of them sent their unpublished place, but also sent their published place saying that, listen, this was published about ten years ago or five years ago or three years ago, and honestly, I don't know who's reading it. So this sounds like a good idea, just pull it up.
+1660616530.0-1660650578.0
+And we were a little bit okay, sure. But you just make sure that neither me nor you are going to get in trouble with the publisher, because I know that can have pretty stringent contacts, but they didn't seem very bothered by it. And they were very willing to pick that box that says, I am the legal owner of this material, and I have the right to upload it onto this level. Bjpadiki, in fact, has sent entire collections of things, all public. And in his case, particularly, what we've done is we've only uploaded excerpts of the plays.
+1660650674.0-1660679460.0
+So people like the play, like what they're reading, then they can go and spy the book. Okay. Also, it's become a library of that sort as well, where it's become a discovery platform too. In this case, you can read the excerpt and then decide. To me that's the most exciting thing about a library, like it used to be about radio, is the surprise of really not knowing that you were looking for this thing, but you found it, and you're like, oh, wow, I found it.
+1660681350.0-1660712010.0
+I don't know how many of our viewers or listeners have been to libraries, but I distinctly remember my childhood when I would go to a library and I would find books that I didn't know I liked. And that, I think, is something that we've lost in this on demand culture of ours, where you either go and find it, or if you don't find it, you say, okay, screw it, I'm not watching anything. Which is not really the kind of attitude we want to encourage just with the library. It's the kind of attitude we want to discourage with the library.
+1660715790.0-1660736760.0
+Now is when Karthik's Questions question comes into play. So you are talking about both unpublished and published plays that have gone up on the library. So what about the copyright here? Is that something that you make clear up front? How are you navigating the whole copyright issue when it comes to published place?
+1660738010.0-1660759100.0
+Well, it's really quite simple. We are custodians of the ID, if we wanted to call it that. We are not claiming ownership of it. We are not even dispersing it. It's in one place, which is in our control, mostly as in control as any technology can be doing.
+1660760670.0-1660797590.0
+And we have taken whatever steps we can to make sure that this is not reproducible from its hosting space. Apart from that, in a month or so we should be rolling out our Contact, the Playwright feature, which is essentially going to allow you, as a reader, if you read a play and you like it and if it's an excerpt. You want to read the whole play, or if it's the full play, you want to produce it. You want to use it in your workshop, you want to have a reading of it with your group. You can just contact the playwright directly.
+1660798010.0-1660815914.0
+So email ID is not displayed. It's a hard coded button on the site and it opens up a text box. You write your message and you send your contact details. The drama library will receive a copy of it so we can track what's going on. But then after that, the communication is too big, we are not involved.
+1660816042.0-1660830526.0
+So then the playlist can decide if they want to give permission. Don't want to give permission, want to charge, not charge, whatever. That's completely up to them. Right. So that's something that you remove yourself from the equation after the first contact is established.
+1660830638.0-1660854838.0
+Yes, because as my team is very fond of mocking me about, I keep saying we are a library, we are not an agency. We could become an agency. There is, of course, we talked about it, and as these things go, we talk about a lot of things. Possibilities, potentials, et cetera. And there could be a time when we become when that chapter is introduced.
+1660854934.0-1660870320.0
+But I think it's a long way to go. I think it's another necessary step to ensure that playlists are well represented and their work is well compensated and recognized, especially in this OTT world.
+1660872850.0-1660888066.0
+So for now, you're saying that the copyright, especially when it comes to published place, rests with the original publisher or with the author? No idea. That's dependent on each individual contract. Okay. Writers can sign their own contracts with publishers.
+1660888178.0-1660903450.0
+Publishers have certain rules. We have no idea about that. We are not publishers. And certain writers, I mean, it also depends. New writers often get railroaded, as you would be when you're selling your ownership of IP.
+1660903870.0-1660923438.0
+And older playwrights, because of the kind of weightage they carry, they often can demand certain things. So they are all bespoke contracts. And it's completely up to their relationship with the publishers. That's why we've left it to the Playwrights discussion. Playwright does not hold the authority to award copyright for production or for use of that play.
+1660923524.0-1660935090.0
+Then they can put them onto the publisher. We are not getting into a custody battle. No wish. So you've indemnified yourself. That's how you stay out of it.
+1660935160.0-1660954918.0
+Absolutely. Okay, that's what I wanted to understand. That's great. So when it comes to the platform itself, I also want to know what is the plan in the future. You said that there will be a contact the playwright button that will be introduced.
+1660955014.0-1660963840.0
+What are the other plans? There seems to be a lot that you are talking about. So what can we expect soon and later.
+1660969570.0-1661002060.0
+We are in the theater, so dialogue comes easy to us. Actually, maybe a little further second. No, but this was very clearly a long journey. It's a slow, it's a long game. It's something that we have to get used to a little bit at the beginning, because we're used to having dates at a venue, rehearsing a play for six weeks, eight weeks, putting it up, then the next day waking up after the party and saying, okay, what next?
+1661002750.0-1661009980.0
+This is not like that. We haven't even had a party. Which is I think it's a sin. We should correct it at some point.
+1661012130.0-1661041640.0
+But given that it is something that we hope will last 1020 whatever years, we're really pacing it out. We are not going to hide. We want to get things right. This is also the first time for many of us working on with technology like this, with enabling technology like this. And there are many times Vishnu, I know, has wanted to beat his head against the wall many times when you say, but why is this not possible?
+1661042330.0-1661045720.0
+I'm telling you, one plus one equals two. So two plus two.
+1661050110.0-1661072302.0
+There have been many of those conversations. We've gotten better at it over the years. But yes, in terms of plans, we are going to be so basically, if I can put it into one sentence and please jump in. Falconi and Vishnu, the focus of the library in its second iteration is going to be on the next play. Right?
+1661072356.0-1661084898.0
+So if you're a playwright, when do you upload your next play? When do you write your next play? How do you write your next play? So then there's the whole training angle that will come in. There's a whole work in progress angle that will come in.
+1661084984.0-1661097622.0
+There's a whole angle of uploading a scene, seeing what kind of feedback you're getting, then going back and rewriting it, right? So that's that. If you're a reader, what is the next play you're reading? Why are you reading this play? Is it like that you read before?
+1661097676.0-1661129474.0
+Is it absolutely not like the play you read before. You must read both types. So automatically then we move into suggestion boxes, we move into sort of tracking your usage patterns, so on and so forth. So the next play is going to remain the focus of the library. And I think once we hit that iteration, then I think we'll be comfortable because that is the point, to get somebody to read more, to write more, to engage more, talk more, to listen more.
+1661129592.0-1661147400.0
+That's really what it's going to be about. So all the ending features, so essentially. You'Re talking resources for playwrights and some kind of a suggestion pattern for readers. Yeah, I don't like to box things that much.
+1661149470.0-1661209414.0
+Just to open that up probably. So two things that always sort of guide the discussion about what is going to be the next so called feature that is going to come is that it is either guided by the fact that this has to enhance the reading experience or as a whole mandate of Varsha Center and various offerings that Varsha Center has that it should sort of contribute into the capacity building of people who are contributing into this. So everything now it could be like optimizing this for the mobile, it could be creating a better reader, it could be creating a most testing experience. All of these two things, at least for the next year, are going to be guided by only these two principles. How can we further the reading experience of this and how can we sort of contribute to capacity building of people involved?
+1661209462.0-1661264558.0
+Now this could be writers, these could be other people who are sort of in the ecosystem, who are sort of helping the writing process and the production process of what is written. But how are we, as a digital platform, sort of a more seamlessly solving problems that probably the absence of a digital medium is posing? How are we making it easier for the community as a whole? So these are the two things and of course the other small sort of underlying sort of mandate that's also like we are very cognizant of is that we are also looking at other ways like apart from the library. Other offerings which we are not going to talk about in detail, of course, in this call, but to just bring that as a point other offerings, other digital offerings that Bosha Center is going to bring in, which are going to be for various other things.
+1661264644.0-1661288660.0
+Now this is for writers. So how does it also sort of tie in as an ecosystem as a whole? Now we have library for writers, we have other things that are coming in. How do we use all of these things not as disparate products, but as a cohesive ecosystem that's like an underlying sort of mandate also that we're trying to bring in. But primary outlook is these two reading experience and capacity building.
+1661290490.0-1661299980.0
+You've also taken the decision to keep the library free for now. Is that something that's going to stay? And I want to understand why and how have you managed that?
+1661302350.0-1661335378.0
+So we had always planned on a subscription model when we started. Then about mid last year, we had a full tech crisis and that kind of set us back about six months. And those six months really gave us some distance from what it is that we were doing and why we were doing it. And I'm very grateful for those six months and that distance because it actually allowed us to step back and say why are we doing this? We are not trying to make this a sustainable model from the get go.
+1661335464.0-1661357258.0
+The first goal we have to achieve is of access, right? And if we have to achieve access, then we have to achieve an inventory that is kind of diverse, that is rich, that kind of shows the work that's happening in India in some sort of true light, right? Not like this token, like this. 200 plays is great, right? But this is where we started.
+1661357344.0-1661362570.0
+We need to get, you know, to ten X this amount in order for this to become a destination.
+1661364670.0-1661382290.0
+So if that's the first goal, then that's that should be the first goal. Who are we serving? We are serving the playwrights. We are serving the readers. And when we hit that kind of statement, then we realize that the entire library is built on the work of playwrights.
+1661383190.0-1661412060.0
+And if the playwrights aren't getting paid, how the hell can we? It's that simple. And so it became an ethical issue actually at the end of it, which we then said, okay, then this is very clear. Until we are able to develop a technically sound model, a technologically sound model that could be a pay per view or some other thing where playwrights are compensated and not compensated up. Pay, it like this is not compensation, this is pay.
+1661413010.0-1661426386.0
+A book. You're paying the pleasure of reading that book. So similarly you have to pay. But when you do that, then it limits access on who can afford to pay. What kind of pay are you talking about and stuff like that.
+1661426408.0-1661447800.0
+So for the moment, I think we're just going to keep it free for everyone and we're going to keep it as long as we can. It was never going to be a huge revenue stream for us in any case, but it would have helped a little bit. But now we can look elsewhere for that kind of grease for the wheels and to keep the motor running, as it were.
+1661449950.0-1661466320.0
+Yeah, and that's about it. I think this stuff should be accessible. And available to people. But you do look at Monetizing it in the future, right? I mean, it is likely to become something of that sort later.
+1661468450.0-1661497770.0
+Honestly, I don't know. We don't know. We have talked about this and I think we will keep talking about it for a while until we hit upon a model that is comfortable for us as an idea and that we feel still continues to do those two things, which is serve the playwrights and serve the readers. As long as we are able to do those two things and sleep at night, then we'll do it. And by sleep at night so that we're not slogging or we're not being chewed away by guilt.
+1661498830.0-1661539160.0
+So those two things. But on the other hand, there are plans to Monetize, not to Monetize, but to use this gold mine, which it is, to actually mine it. For its resource, which is ideas and idea makers and storytellers. We live in an economy and in an age where stories are one of your best currencies, because people are now looking for stories with authenticity. They're looking for stories with realism, with truth in the experience and in the delivery, in content and inform.
+1661539610.0-1661570830.0
+And this is a place where we have 70 odd people who have these skills and these abilities and these interests. So that's something we're definitely going to look at doing because that goes all the way down the pipeline. It doesn't stop with us, it doesn't stop with the publisher, it doesn't stop with the published popular playwright. It's democratic, in a sense, as democratic as it can be. So that kind of stuff we are going to get into in about six months, you'll hear lots of exciting news, correct?
+1661570980.0-1661599542.0
+Yes, I'm looking forward to that. There's a lot of cryptic messages that I can hear over there right now. But you launched last month, right? I do also want to understand what has the response been so far? And when you do talk about that, I also want to go into what this means for the theater community at large in terms of what is being produced and what is coming to us to view on stage.
+1661599686.0-1661604090.0
+So what has been the experience been ever since the launch?
+1661608430.0-1661643560.0
+Yeah, I think what I have observed is that there's greater access for younger playwright to work of playwrights they might admire or they've heard of someone sitting in Bangalore, might have heard of their knees or three, and now they get to actually read his play, even have a conversation with him. He does call the TDL Breeders Club. So each month we pick play from the library and we read the play and then the next day we have a conversation with the playwright themselves.
+1661645770.0-1661684370.0
+And from what I've gathered from people, the kind of people who have been attending these meetings during the last two months are essentially young actors, people who are still in college or they're looking to make work. So that kind of openness is what I saw. So I think this library, in that sense, will also bring in younger playwright into sort of bold, not more like it wouldn't be like a younger theatre maker or an actor trying to fit in, but more like that door is open wide with this IP.
+1661689690.0-1661709180.0
+So far, have you heard anything in terms of the response? Have there been those connections where somebody has found that interesting play to produce or somebody has been able to reach a play that they've been wanting to reach? Have there been stories like that that you've heard?
+1661711250.0-1661712560.0
+There have been a couple.
+1661714850.0-1661743394.0
+So I think it's a little early. For that metric, I realize, but there. Have been a couple, which we're very thrilled about. We got our first credit with Bangalore Digital Theater when they were doing they do a monthly reading in Bangalore at the alliance from Set. And the last month, which was the month we launched, they found the play that they wanted to read on the drama library.
+1661743442.0-1661787858.0
+And they asked for the playlist contact and contacted them and they played out and said, yes, of course, why not? Hopefully something will spring from that. But because our penetration has not been intense in a sense of recruiting blaze, of acquiring blaze, they are all from kind of a same milieu. It's kind of urban, it's more English, it's talking about a particular kind of team or person or plot, as it was. But the moment we get into a slightly earthier space, a more rooted Indian space, I think we will have a lot of takers.
+1661787874.0-1661814778.0
+So that's actually our next focus in terms of acquiring of plays. And again, it's not a curation, it's just a direction that we are trying to sort of because Pragy are going to be like yes, because we no. I'm not going to do that. But I get what you're saying. I was a little worried when I heard about this as to does this mean curation?
+1661814874.0-1661848390.0
+Does that mean gatekeeping when you start with a network of your own? But yeah, I get what you're saying. So you're saying you're going I said you're going in a direction where you're looking at more diverse themes and diverse milieu, where you're looking outside of the urban circle. Yes. And like Falguni said, I think the hope is in the young people who are in college, who are out of college, who still have not developed a kind of a gatedness about the people they want to work with and are willing to explore.
+1661849050.0-1661855660.0
+It does happen as you grow older. Kanchan Bhattachari is asking about new playwrights. We'll get to that in a second. Yes.
+1661858910.0-1661907146.0
+But I think that for example, I was talking to Tesco and Thorough about this month or so ago to get some of the Tesco plays on because some of the plays that were written for Tesco 20 years ago, it's in its 24 year now. So somebody who's entering the theater now is an 18 year old, has not even heard of those plays from the first stage. And that's a shame. It's a loss. And I think that with something like the drama library or any library or engagement, I think its insidiousness in a good way is that it creates habit read to read new things, to read things that you wouldn't read before, to recommend things to others that you didn't have access to before.
+1661907248.0-1661933700.0
+And I think that kind of habit forming is only going to show up as a result in ten or twelve years. So like I said, it is the long game. We would love for people to come to the drama library and say shit, I love this play, I'm going to do it next month. But I doubt because people in the theater, they tend to plan their productions a little bit more in advance than that. So there we are.
+1661934150.0-1661957738.0
+Essentially you're trying to create a footprint where there is habit and eventually there will be those people who will come to the drama library looking for work to produce. Yes, fair enough. And while you're at it, will you please take conscience question as well? Are you relying on word of mouth or do you have no, we are, of course, relying on word of mouth. It is quite important.
+1661957824.0-1662012730.0
+But we also have a dedicated team. We are in touch with people from especially regions that we feel we are not strong in and are not strongly represented, like the Northeast Bengal, Kashmir, Tamil Nadu, Odisha. There are places in these regions where we are really trying hard to find ambassadors with some degree of success. And by ambassadors we mean just sort of evangelists who will carry forward the word of GDL and hopefully get some responses in return. The trouble is, and I mean, it's not an excuse, but it's interesting, because the trouble is that people practice theater very differently in different spaces and by different traditions and in different forms, and in not all the forms is the written word of any primacy.
+1662012890.0-1662040760.0
+So that is going to be a challenge going forward and we know it. So the idea with places like that is to actually go and do writing workshops there, because as much as the tradition does not demand it, there must be young people who want to break away from the tradition and want to explore something new. So then we will go there and we will try and sort of be a resource for them in order to write.
+1662043050.0-1662064298.0
+That's the idea concern. I hope that answers your question. Yes, I hope so too. So while answering the earlier question, Falcony, you mentioned the TDL Reading Club. That seems to be your way of sort of spreading the word and that physical connect to the library has with people who are reading.
+1662064394.0-1662086802.0
+So can you tell us a little more about that? What is the Reading Club and what has it been like so far? What's the experience been like? The Reader's Club is essentially a space for everyone to gather and you can be a writer or you can be an actor, you can just be someone who likes to read. You just like literature.
+1662086866.0-1662114702.0
+This is something you're experiencing for the first time. So we started off with reading monthly readings. Like I mentioned earlier, we pick a play from the library, we read the entire play and it's open to all. So we keep switching roles, everybody gets a chance to read. All of this happens over time and the next day we invite the playwright to have a conversation with us about the play.
+1662114756.0-1662172706.0
+We choose a topic that interests the both of us and we use the play as a jumping off point to dive deeper into it. So we've been doing that and the response and what we are also looking to do is create different offerings to this. For example, in the first 20 minutes of the conversation with the playwright, the playwright gives like an opening statement or a remark on what we were the topic that we want to explore. And we sort of converted that into a podcast series which was up on SoundCloud and then the video of the entire conversation is available on YouTube and Facebook. Sort of creating an archive of these conversations also in different ways like audio and video that's happening.
+1662172808.0-1662194600.0
+And so far from what I've observed, the people who attended these are either play rides or most of them are younger. I've seen the younger lot coming in to attend these to read a play together below, early 30s like that.
+1662196910.0-1662207020.0
+There's a lot of curiosity amongst the younger theater makers or actors writers to explore what is this and to sort. Of.
+1662209070.0-1662232740.0
+Add to their practice itself. Okay, so far what have you read and when does your next reading happen? We started off so we hold these conversations and readings on the last weekend of every month. Last weekend we have it between 04:00 p.m. And 06:00 p.m..
+1662233270.0-1662251340.0
+For the first such reading we read Neil Chaudhry Still and Still Moving. And most recently this last weekend we read Deeparwin, the playwright is dead. For August. We'll be reading Akash moment.
+1662255390.0-1662259500.0
+Oh great. Okay. You were discovering things here too.
+1662264370.0-1662282740.0
+I have no idea sometimes what's happening and I love it because then I get surprised like this and I go. Wow, I like that place, that's wonderful. So how does one attend these readings? Is there a way to subscribe or how does anybody just access zoom link? How does that work?
+1662283430.0-1662304774.0
+So we announced it on our social media like before every reading. People can follow us on Instagram and Facebook. On Instagram we are at Hasha Center so people can keep an eye out. And we also started this last month. We also started newsletter for the Reader's Club.
+1662304902.0-1662333550.0
+So it's like we give a roundup of what's been happening at the library, the new place that we've added, what happened at the previous month's reading and conversation. And also we kind of do like a fun supposed to be fun, like a quick trivia with the upcoming month play ride stuff like if you were to die, how would you stage your death?
+1662346730.0-1662386920.0
+We also have this new thing called so we received a letter from one of our readers who called themselves Visti Palabawala. And so he basically wrote us a letter saying dear whoever is in charge and he censured the library for everything that it is not cool. So we published that letter and we also got a response to that letter. So it's a nice letter to the continue. So it's getting interactive in unexpected ways too.
+1662387850.0-1662392840.0
+Long question. I'm going to try and see if I can add him to the panel so he can ask his question.
+1662395210.0-1662400330.0
+Go ahead. Always good to see Kanchan, if it's the same concern.
+1662406110.0-1662419262.0
+Yes. Hello. Hello. Welcome Kanshan. Glad to have you here attending this session and I thought it would be nice if you could ask your own question here.
+1662419316.0-1662452518.0
+And you have Vik falguni and wish noodles pawn to it. Well, yes, first of all, Vic, it is the same condition. Yeah, I had a similar idea many years ago about something like this. Of course I was too lazy and I never got around to doing anything about it. But I did hear and talk to a lot of talk to a lot of playwrights in Rajasthan and in many smaller towns of up who are not really computer savvy or tech savvy.
+1662452614.0-1662533780.0
+And they have a lot of their plays written down, just like sitting in trunks or boxes who don't really have any idea of digitizing it because it never crossed their minds. But if they were to be given the option, would you be thinking of at some point in the future maybe providing some form of tech support so they can make these accessible to a wider audience through the Drama Library? Yeah, I mean, contingent probably to take up that the challenges that we have seen in using this kind of tech, even among people who are tech savvy, we have categorize it by demographics, by age, by the access to technology. The challenges are so dispatched that you have a single solution which sort of fits the bill for what we are doing is we are going at it from a more of a community angle than the product, which is to say that we are sort of looking at the ambassadors for each. Now, each agent then comes like say for example, if you have like a group which comes from, for a lack of better example, Christ College in Bangalore and they have a unique problem.
+1662534310.0-1662577602.0
+The idea is to then create this ecosystem between the ambassadors and that particular community to sort of get to a place where they are sort of have a digitized form which can be then sent towards like for example, the challenge could be fear. The challenges could be something as simple as not understanding the web. Semiotics right. The challenge could be the fact that certain fonts aren't available for the web that they are writing and it's even available. So these are very disturbed problems and these are problems that one product cannot aim to solve because the mandate then just stretches beyond everything.
+1662577656.0-1662621280.0
+So then we are as an organization, I think what we're doing is we are then trying to find these problems, solve it in like a very hyper local fashion, bring it to a level where bring that solution to a level where the library can host it and then probably taking it up. And then once it is digitized, once the data of the playwright is available, then Falconi, all of us are more than happy to just get a bulk email, take it out, like upload it in the library in the name of the playwright and take it up. So that's how we are staggering the solution to it. Like niche solutions, put it into a demographic, we are solving it hyper locally, taking it to a common format that the library accepts and then like sort of use it to sort of display it.
+1662623490.0-1662629934.0
+Cool. Thank you so much. Thanks. Good job, all of you. Thanks so much.
+1662629972.0-1662643846.0
+Kansas, I hope that answers your question. And thanks for joining us. I did, thank you. Okay. I think Vivek I cannot see Vivek and I can't see Salvini as well.
+1662644028.0-1662683460.0
+So yeah, I think I just have a couple of more questions left for you. Thanks for answering conscience question as well. So, yeah, you've spoken about the Reader's Club and I think the next couple of questions are for Vishnu. I was quite fascinated and excited to know that you are that rare case who is a playwright turned technology person. So I just wanted to know what are the unique advantages that you had, or disadvantages for that matter, that you had when working on a project like this, where you've been on the other side of things and suddenly you were putting together a technology platform that digitizes place.
+1662683830.0-1662693160.0
+The advantage of being the rare case of a crossover between technology and art is that I can confidently say any deadline, which is ridiculous and no one's going to question me.
+1662701310.0-1662710780.0
+No. But should I cut this answer short because it's counting down from ten to one. Don't worry about that.
+1662714110.0-1662730420.0
+Okay. So probably one of the advantages is that working in tech again has its. Okay, I think Wishnow has disappeared and. It'S a question only he can answer. Yes.
+1662731350.0-1662736820.0
+Fortunately, the countdown went out and then just kicked me out. Okay.
+1662741830.0-1662790838.0
+The thing is one unique advantage of working in tech, of course, is that when a project of this nature comes in, then the ability to like sort of the learning curve is smaller, the ability to sort of end this age a solution from the word go is easier. And the other thing that sort of ties into this, which is the question that you had asked earlier, how are you managing to keep it free? Because the tech acumen sort of helps us to sort of reduce the cost of technology. Iteratively so one of the ways that we are also keeping it free, we are constantly trying to innovate and make technology cheaper over and over. And then the advantage of being somebody who is like the primary thing, it's a digital platform, so you need somebody with technology to do it.
+1662790924.0-1662815200.0
+But the advantage of also coming from the art space is that to some extent, you understand the needs of the demographics. And I'm also what you would call not a young but probably like a new playwright. Playwright. But yeah. So I have just gone through the workshop that Thorha Center had and then I've probably my first or second play through it.
+1662815810.0-1662870158.0
+And so I sort of understand at least have a basic understanding of the demographics that we're catering to and hence a lot of things that we were planning to as building as features were quite apparent and also what was apparent is the things that we didn't know, which is also important at the beginning of the project. So it was easier for us to reach out to people and then to understand what they would like to do. So yeah, those two things and disadvantage would be that. So for example, while most of us send it to our theatre friends always my sort of thing is to send it to my non theater friends. People who are like the thing is I think when they read this for them, a book available on Kindle and this is no different.
+1662870324.0-1662876290.0
+So sometimes now that some things that I'm working on, sometimes I am unable to have the distance.
+1662879430.0-1662921886.0
+I truly believe that there needs to be this distinction between the person who's making it and the person who is envisaging the product. So that distance is sometimes important and sometimes you lose it because you are very close to it. But yeah, then I sort of reach out to people who aren't from and send it to them and ask them what do they think about it and factor in their feedback. Right. I think that sums it up and I think it's that the touch that the technology person comes from an art background is quite visible, I felt in just the way you can search for plays and just the way it's been put together.
+1662922068.0-1662945000.0
+So I think I just want all of you to sort of give me your closing comments and we can wrap this up. I want to know from each of you if there is one particular feature that you find really exciting there and if there are a couple of recommendations of place to read for reader from each of you, I'm sure that will be different.
+1662949050.0-1662966718.0
+One, do you want to start with it? One feature is it. Like there's one thing that I found very exciting. I'll just give you an example. I found butter and mashed bananas which used to be a play that I really enjoyed back in the day and I know you've acted in it.
+1662966804.0-1663001400.0
+And when I opened the play, I also found a little bit of information as to when it was first performed and where. And it took me back to the time when I had watched it as a college student in Chennai. So those are things that were bonuses that I was not expecting when I opened the script to just read the play. So things like that little nuggets that people should find. Well, honestly, I think that the best is yet to come.
+1663003790.0-1663041350.0
+Yes. While I am very proud and very happy with what we have right now, I think we're on a long road. And I think the way we are working as a team and I just want to do a shout out also to Akriti, who's our designer in Pune, mohammed, who was an integral part of the team, who has now left us to study theater in Norway, and Shiva Patak, who is one of the directors with me. Yeah. So the way we're working as a team, I think that's the best thing for me, honestly.
+1663042170.0-1663059542.0
+Because if it hadn't been this product or this library or this thing, it would be something else. But I think the way that we are functioning really fills me with a lot of joy. And I think that's important to feel. Joy. Yeah.
+1663059616.0-1663081380.0
+And in terms of discoveries on the site or things that you should look out for, keep coming back. I think you'll find things that you will want to read or new things that weren't there the last time you visited. So treat it like you would a library. Come back. If you don't find what you're looking for, tell us.
+1663081750.0-1663102522.0
+We'll try and find it for you. And if you know people who would want to sort of have us post their work, please spread the word, right? I think that helps. Any recommendations? Any plays that you think people that you've read recently and you found really.
+1663102576.0-1663125002.0
+Exciting, more than recommendation, I would like to leave, like those who are listening to with this. This is my favorite thing to do on the library. So if you go on the search page, right, you would see two filters. One is for genre and one is for language. And each of those are type aheads, which those who don't know what type of heads mean, you can write like a couple of alphabets.
+1663125146.0-1663152840.0
+And for example, if you write Poel in genre, and if you have political satire in our library, it will throw a suggestion saying that there is political satire. Or if you write Pol in the language and if you have Polish place, then you just probably show polish as a suggestion. So my favorite thing to do is to just go and randomly type things. And these things and these two work in conjunction. So throw as many combinations as you can of these.
+1663153150.0-1663182820.0
+You can add as many languages, you can add as many genres. So my favorite, favorite thing to do in the library is to just type random characters in language, random characters in genre. See the suggestion that the library throws, add a combination of those and see what play comes at the end. It distills and gives you probably one play which is at the intersection of these things and then probably is interesting to read. So more than a suggestion for a play, this would be my suggestion as a user experience thing to do.
+1663184410.0-1663202458.0
+That's quite exciting. That's a bit like a game to see what comes up and how bizarre your combinations can get. Yeah. If you find a gem, then just let us know in the instagram, like balcony would be there all the time. She would respond to it.
+1663202544.0-1663215694.0
+Do find a gym because that's my favorite thing to see what comes out of all these searches. Wonderful. Yeah, I think that's exciting to do. I'm going to try it out too. What about you?
+1663215892.0-1663217760.0
+If there's something you'd like to say?
+1663227190.0-1663239560.0
+I think the funeral part is to make the discovery of a gem herself than anybody else telling you, directing you to one, my dad and then when you read it, you might be like, oh, not so much.
+1663241770.0-1663264382.0
+That's wonderful. So, yeah, I think that brings us to the end of this. Thanks so much, Vivek, Vishnu and Palghani, for joining us. This has been wonderful. There's a lot of new discoveries that I want to go and make on the library now and I hope that you have a lot of people the work there and a lot of more interesting theatre work coming out of this.
+1663264516.0-1663270940.0
+Thanks so much again for both the initiative and joining me today and it's been lovely having you on. Kolk here. Thanks.

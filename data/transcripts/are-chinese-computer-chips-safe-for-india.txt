@@ -1,0 +1,162 @@
+1656082970.0-1656131050.0
+Namaskar and welcome to another engaging conversation on Kulke. Kulke is India's own social media platform made from India, made for India. But for the world most social media platforms are either American or Chinese. This is is anirbar platform and we are in a discussion where we are going to talk about towards a new India. And in this new India there is one thing which will play an important role which is computer chips and semiconductors.
+1656132270.0-1656172860.0
+On this conversation I have with me Dr. Ajay Chaudhry. Many of the younger people in the audience may not have used the first generation computers which came out in India but people like me who have worked from the first generation computers have worked on systems which were hardwareed and developed by Dr. Chaudhry. He is one of the founders of HCL Hindustan Computers Limited now known as HCL more than a dollar 50 billion company.
+1656173950.0-1656213320.0
+And Dr. Chaudhry believes that India should be arba Nearburg especially in the area of semiconductors, computer chips and the ecosystem around it. Let me remind people that there was a time when India was a leader in this area. We had our own semiconductor fab but there was a fire in the Then Chandigarh facility and we lost out and since then, cheaper imports have kind of taken over but Dr. Ajay Chaudhry is trying to ensure that we get an ecosystem in place.
+1656214250.0-1656253314.0
+The topic of our discussion today is are Chinese computer chips safe for India? All most of our mobile phones and smartphones everything we use has chips which are of Chinese origin should Pala worry? Maybe Dr. Chaudhry does not need to worry because he works on a system which is different but I work on an Android system and I need to worry many of us work on Android systems so should we be worried about using Chinese computer chips? Thanks a lot, Dr.
+1656253352.0-1656277274.0
+Chaudhry. You're a busy man for finding time for Hulk which should be something very close to your heart because this is truly an armor effort. That's wonderful. Good to know that it's totally an Indian product created by Indians for India, for the world. So I'm very happy to be part of this discussion, Dr.
+1656277312.0-1656305806.0
+Ajay. It is said that in this 21st century chips and semiconductors are the new oil. Do you subscribe to that idea and thought? Absolutely. As a matter of fact, many, many years ago I had also written in a note for the government that at some stage the import of electronics in India will exceed the import of oil.
+1656305998.0-1656317846.0
+And we are nearly there. It happens all the time. Until the current price increase of oil. That's happened. But pretty much that's the situation where our import bills are very high.
+1656317948.0-1656343520.0
+And despite the fact that last year we tried to talk about a better balance of trade with China, our import bill from China increased last year. So I think that is really very, very difficult situation for India. That at one end we are fighting the Chinese on the border and at the other end we are importing more.
+1656346130.0-1656358622.0
+These imports are only going to become larger till we have something going. We will talk about that as we go along. For our audience. And this is not a question to you, Dr. Ajay.
+1656358766.0-1656385174.0
+This is a question for the audience because there is ongoing quiz in the chat box. And the question for the audience are what are most computer chips made of? There are many ways computer chips can be made. But one of the materials is the most common one. And I would look forward to answers.
+1656385222.0-1656416120.0
+And there is a panel which will look after the answers. And finally, there are some winners, and there are some awards to be given. And there's a reward. Dr Ajay if silicone chips and semiconductors are the new oil, why are we so dependent on imports? You see, for many, many years India has been into this debate whether we should make our own semiconductors or not.
+1656416490.0-1656456946.0
+And I started writing about it in the late 90s where I said if as a large country we remain dependent on other countries for semiconductors we are asking for trouble. And unfortunately over the years different governments looked at it and there were so many global voices also saying why does India have to make its own semiconductor? And everybody used to say we are a great fabless country we design a lot in India, we do a lot of fabless work why do we have to make things? But suddenly the last two or three years are showing the reason for doing it. And the reason for doing it is very straight and simple.
+1656457128.0-1656493502.0
+The reason is that we just can't be dependent on one country for supply of everything. And therefore the whole world is now starting to look at more resilient supply chain and they want to be not dependent on one supplier. Everybody wants to have multiple suppliers and therefore India can be a great position to occupy that second space instead of China. And I think that is where the opportunity lies that we need to design to manufacture products here. We need to design our some semiconductors and we need to manufacture them.
+1656493636.0-1656510950.0
+And we don't need to go to the latest technology in semiconductors. We need to get to the technology for which our demand is high. And where is that demand now for the lay audience? Can you explain like it was said earlier.
+1656532850.0-1656562630.0
+Any product there will be a semiconductor chip in there okay? So there are no products made without electronics today everything is electronics and inside electronics there will be at least a single chip or multiple chips. If you take a car you might have hundreds of chips and that is what you saw last year when your car deliveries got delayed to six months, eight months some people even started to wait for a year, year and a half, which is very historical for India.
+1656569770.0-1656608642.0
+We have to get to our products much faster and therefore we just can't be dependent on other countries for something like this. And very critically, the government has taken all the right decisions in the last six to twelve months by introducing the new semiconductor policy, creating an India semiconductor mission and then going after it with a great funding strategy that they've created. Let's talk about the semiconductor mission a little later. But where do we import? How much of the semiconductors or chips come from China?
+1656608706.0-1656624954.0
+Because there are other suppliers also. And that is also a question which is coming from one of our viewers who's watching us. Mr. Sake is asking that question. I'll keep asking the audience questions also simultaneously as we go along.
+1656625072.0-1656648366.0
+But can you explain what is the pie diagram? Where are we getting most of our chips? And the world, see, actually, suppliers of chips mainly are sitting in Taiwan, South Korea and China. That's where it's all happening. And whenever you buy a Chinese product, you have a high probability that you're buying a Chinese chip.
+1656648558.0-1656673370.0
+Okay? Except for very high end products where they don't have the latest chips available. Mostly the entry level, middle level is where the Chinese chips are sitting. And look at the whole situation of CCTV cameras. World is lit up with CCTV cameras from China.
+1656673710.0-1656698580.0
+50% of the world depends on CCTV cameras of China. Each of those CCTV cameras has a Chinese tip. So your photographs, your information, your talking, anything you do is going back to China. So it's a very dangerous situation to be in and this is not something that is sustainable. And South Korea is the next large.
+1656699510.0-1656714342.0
+Taiwan is the largest in the world in terms of chips. Then comes China. Then comes South Korea. So these are the three top suppliers. Lots of chips do come from the US, but they are mainly designed and created in the US.
+1656714396.0-1656757362.0
+But manufactured in Taiwan or other countries. But now what's happening is that US has realized that they need to have these chips made in the US. Because they are very concerned that tomorrow, if China does anything to Taiwan, what will happen? And one of the intelligence committee chiefs there in America has clearly stated the next wars will be fought with semiconductors. Yes, as some people say, the next wars will be the non kinetic wars where bombs and bullets and things will not be used.
+1656757416.0-1656763240.0
+But the cyber warfare would be the key area or domain. Right.
+1656766490.0-1656805380.0
+For an average user or consumer, can he get to know whether his smartphone or his CCTV camera or his car? Is it leaking data to other countries? Be it China, be it Taiwan, or be it Google or be it Tesla or Facebook, everybody is pirating data some way or the other, or squirreling data. If you want to look at it. Favorably, see a lot of people feel when they put in cybersecurity software they can stop all this.
+1656805830.0-1656824362.0
+That's totally incorrect. That is what takes care of software. But what about hardware? In hardware it's very difficult to figure out unless you are a genius. So I think you'll need technical, very highly technical people to be able to figure out whether you are leaking data from your product at all.
+1656824496.0-1656862818.0
+And this is something that if it's inbuilt into the chip and there is a trap door built into the chip you'll never get to know. So you should assume that something like this is happening all the time. Japan had recently discovered that in one of their cities huge amount of data was going back to China and they immediately started working on reducing the imports from there. And interestingly you will find that last week china stopped the usage of Tesla cars in China. Why did they stop Tesla cars in China?
+1656862914.0-1656976760.0
+Because Tesla cars are supposed to have cameras which can take pictures of Chinese. So it's a very funny situation. As a matter of fact, in the next four to five years we have to start making more and more semiconductors here and more and more products here. Semiconductors, Indian brands, Indian products, semiconductors semiconductor facilities definitely mission mode, foundation setup, epic foundation Indian products.
+1656983650.0-1657025340.0
+Who can be better to explain to us the complicated situation which India has I must say gotten itself into through various policy prescriptions of the past than somebody like Dr. Ajaya Chaudhry who's considered the father of hardware in India and anything he says has to be taken very seriously. He's also an advisor to India's semiconductor mission. Dr. Chaudhry, Prime Minister Narendra Modi's government has brought out a new Indian semiconductor mission and you have been part of it.
+1657025790.0-1657040750.0
+What is the key thrust other than that there would be an investment of rupees 76,000 crores, a large sum of money. But let's talk breaking it what it means for India.
+1657044450.0-1657045390.0
+Policies.
+1657056850.0-1657083050.0
+When you announced announce a project you can get up to 50% of what you have announced. Okay? So the first thing that this particular policy will do is to attract at least three to four silicon semiconductor plants to India. So which is very very important because we need those kind of plants. Now the good news is that we are going to make middle level products.
+1657083120.0-1657096670.0
+We are not going to make the most advanced products. We are going to make the middle level products which is called 28 nanometer. So 28 nanometer middle level 28 nanometer.
+1657099250.0-1657101360.0
+Fabrication facility mold there.
+1657104050.0-1657106830.0
+Or US packaging units.
+1657126350.0-1657154898.0
+But in the meantime design cooper coffee emphasis is policymaker. So a design linked incentives team we want Karib government chart. At least 100 startups become fabulous companies and they then start creating designs for India, for the world. So that is very important and that is a very new thing that the government has done. So one you will start seeing silicon happen in three to four years.
+1657154984.0-1657169990.0
+But before that, there is another technology which is called compound semiconductors compound Senica conductors, for example, gallion arsenide investments.
+1657173310.0-1657222890.0
+So just say hamari power key requirements chargers, electric vehicles, chargers, et cetera. Power management, Led bulbs, compound semiconductor both by the Led bulbs is slightly different issue led bulbsky requirements to existing semiconductor complex. Okay. Because unkeepers 180 nanometer or 180 nanometer old technology hanging plan banaki government discussed. Yeah, they are looking at it very seriously because that will make sure that 80 crore chips will be designed and manufactured in India, which would be a fantastic thing to announce.
+1657223630.0-1657258840.0
+Now, this is the semiconductor complex which is there in Chandigar Mohali. Now, is that what you're talking about, sir? And the same facility which got caught fire many decades ago when we were leaders and there were many, many conspiracy theories how it happened and why it happened and how it put India back and how we are again, ecosystem pushy. And.
+1657261610.0-1657281834.0
+I should also tell our audience that India also manufactures certain specialized kinds of chips. Now, those are the chips which are manufactured in defense research and development organization. Correct. And those are chips which are used in our strategic systems. That's right.
+1657281872.0-1657310610.0
+So you should please, the audience should be rest assured that your strategic systems are safe and they're not leaking any data to China or Taiwan or to America or to others. Those are designed, made, manufactured and used in our own missile systems, in our own strategic systems. So these strategic systems may be a solasa differentiator of Bataya SubCom g. Okay? Jesse Agarap.
+1657310970.0-1657338510.0
+Electricity grids there. America considers it strategic. We don't think of it as strategic. If we don't think of it as strategic, then we'll be using products and technologies there which will use Chinese ships. So void dangers, with the kind of capability China has, they can bring down our whole financial systems and our utility systems overnight.
+1657338850.0-1657360390.0
+So we should be very much aware that those kind of challenges are there for us. No, certainly many sectors are strategic sectors and we need to worry about that. And one of them is energy. Because we are looking not just for energy security in the long run. India is looking for energy independence, which is a whole new, whole discussion.
+1657361770.0-1657397890.0
+It's a very big discussion and it's a very important discussion. People in the audience are asking how soon can we have a fabrication facility up and running in India other than the semiconductor complex? Also, I'm aware that you have been part of some discussion with Foxconn and with Vedanta. Vedanta and Foxconn have joined up and they have made a major announcement. And Vedanta is planning a very large display manufacturing facility.
+1657399270.0-1657403010.0
+Phones, television panels.
+1657409270.0-1657411670.0
+80% of the cost is the panel.
+1657420650.0-1657461430.0
+Semiconductor facility welcome facilities.
+1657467370.0-1657506180.0
+Where with all policy initiative do we have the human resource and the electricity which we can supply. And I believe fabrication facilities require a lot of water. Do we have water and clean power and uninterrupted power? Absolute requirements for a semiconductor facility, you cannot have downtime. So both important she's a vo commitment joby, state commitment, pay will call.
+1657507110.0-1657543150.0
+They cannot fail. Now, whether the Vedanta goes to Arashra or goes to Gujarat or up, wherever they go, the state government will have to ensure that this is taken care of. And therefore, I think they will probably go to large states who are very well positioned to offer this capability. Or water is super, super critical. So uske up clean water peak or large amount of water peak capability.
+1657547030.0-1657573020.0
+Sir, let me be the devil's advocate. 75 years into year independence. Those are the two most difficult things for citizens. Getting clean water and getting assured clean electricity where there are no brownouts today blackouts have become rare but brownouts are still there. How do we ensure that?
+1657573390.0-1657595246.0
+They will have to provide absolutely clear, direct connection to the plant. There will be nothing in between. They will have to provide that capability. And as far as water is concerned, they will have to position it close to a good, clean, flowing river. And that is super important.
+1657595348.0-1657608110.0
+Because if you look at what China has done with the Bramaputra they have used Bramaputra for their semiconductor plants. And that's the reason why there has been this sauce also China.
+1657620010.0-1657645834.0
+There's one question coming from Mr. Abhishek who is saying if the cost of manufacturing India is more than the cost of importing it. In that case, what do we do on yoga? That is not a problem at all. Because what they will typically do is that this 28 nm has been in manufacturing for the last 810 years easily.
+1657645962.0-1657675622.0
+So when they bring a plant of that kind for which there is tremendous amount of experience available with global Indians and otherwise, that will not be an issue at all. And therefore, we don't need to worry about the cost of manufacturing at all. And as a matter of fact, if we start to design our own chips we'll be cheaper than anywhere else in the world because our cost of design will be lower. But we live in WTO times, sir. They can dump chips.
+1657675766.0-1657705138.0
+They can dump very cheap chips. How do you ensure, when the Galwan issue happened, India banned the Chinese apps? Can we, by taking a position, also ban import of Chinese hardware? Because there's something called a preferred supplier scheme. You see, there are two schemes of the government which the country and the state governments and central government should take advantage of.
+1657705304.0-1657722566.0
+Very clearly, these schemes exist. First of all, the first scheme is called preferential Market access. Which means that if you have an Indian product with 20% to 50% of domestic content they should get preference over any other product. Okay? When the government buys.
+1657722598.0-1657749090.0
+And government is the largest buyer of electronics in the country. And the number two point is India. After Dalwan introduced something called the broader nation policy. So if a product comes from China and you put broader nation specifications in your tender, nobody can buy from China. And that has been put actually in lot of products in the gem portal of the country.
+1657749240.0-1657764760.0
+So if you go to a gem portal and you want to buy a tablet, and that tablet has a Chinese chip, if you use the border nation policy, that tablet cannot be bought by the government. But they still do. They get out of it? By making statement? No.
+1657765930.0-1657770120.0
+Why we should follow these but these things we should be very clear.
+1657784210.0-1657805090.0
+But Trump is very clear. If China sets up a plant for semiconductors, no American company can supply equipment to them. And Chinese companies cannot use American software for designing chips. That ban is already there. That means that China has to start from scratch.
+1657807910.0-1657832042.0
+So they have been put into a huge problem because of this. So we have been positioning ourselves in the right direction. You would say our border nation policy is a very good policy of this government. See, this government has clearly made a statement that we want to be at maneuver and they're sticking to that. They have created all kinds of support policies for the country.
+1657832176.0-1657864040.0
+I think what needs to be done is that the bureaucrats of the country, whether it's central government or state government, they should take heed of the policy that the central government has created and follow it thoroughly. If they follow it to the T, then I think we have a great future. Because in the semiconductor policy, very clearly, it's written that the demand aggregation shall be done by the government to enable the semiconductor plant to be successful. And demand aggregation can happen when the government buys only Indian products.
+1657867210.0-1657912760.0
+There's one very recent thing which has been happening globally, which is the post the war between Ukraine and Russia where the supply chains have been disrupted. And simultaneously, we have also seen the resurgence of COVID in China and China going into a lockdown when the world has opened up. Do these twin situations which have emerged, do they offer India an opportunity? Outstanding point you are making, Paula. This is really where we should take advantage of the situation.
+1657913210.0-1657951714.0
+We are best placed to do that. Because if you look at India, we can be the second source for everything in the world today. If you are sitting in Europe or you're sitting in any part of Africa or Asia, and you want to make an air conditioner, you want to make a computer, you want to make a phone, you just fly to China, meet their design companies, meet their manufacturing companies, place your order, come back to your home country, put a label and start selling. That is the way supply chains have developed over the last 1015 years where China has taken a premium position. We can take the second position there.
+1657951832.0-1657976250.0
+We can be the second source. And nobody today, after this zero forward situation of China is willing to take a risk of betting only on China. They want all a second source. Some people are even saying, and I read this Economist article just last week which said that some corporates have taken a decision. Even if it costs us more, we are going to have a second source.
+1657976750.0-1658001742.0
+So earlier, everybody looked at the efficient, global resourcing. Today, people are saying we need a very clear, reliable source, not some people where we can't depend on them. And nobody wants to depend on China. You Know. So the tag of being the factory of the world needs to be taken away from China and part of the manufacturing.
+1658001806.0-1658022822.0
+Come to India. Is that what you would suggest? Yes. If we want to be a 5 trillion economy, we need to bring a lot of electronics to India and then export from India in a very big way. We cannot just be a domestically manufacturing country.
+1658022956.0-1658037114.0
+We have to be hugely into exports. It started to happen in the last two to three years. As you can see, a lot of phones are being exported today. More and more of that has to happen. But by using Indian components.
+1658037162.0-1658056290.0
+Not just importing everything, putting it all together and exporting. That's the phase one of anything. But phase two we need to add depth to manufacturing. Because, see, there was a time when there were Indian electronic goods in the market. Now we no longer have those brands.
+1658056630.0-1658066280.0
+And it seems sad. Maybe the consumer got cheaper goods. But then your turnaround. Time and the life. Shelf life was so small.
+1658068010.0-1658089294.0
+Do we need a broader ecosystem once we have manufacturing design of chips manufacturing, but a broader ecosystem along the electronics industry. Absolutely Correct. Today, all imported products. Most of them have a shelf life, have a usable life of two to three years. You take your phone?
+1658089412.0-1658097450.0
+You can't even open it. Okay. You take your tablet, you can't even open it. You can't upgrade it. You can't change your battery, you can't do anything.
+1658097620.0-1658113074.0
+I think that needs to change. We Indians prefer to use our product for four to five years minimum. We don't like to throw. And this throwaway piece has created a huge e waste problem globally. We should not be following the West Congress.
+1658113202.0-1658127222.0
+We should be creating products that are repairable. Today. There is no repair policy in this country. So people get stuck when they want to even get their TV repair. You buy an LCD TV, it costs you one lack.
+1658127366.0-1658141582.0
+Then suddenly the screen fails and they will tell you this is ridiculous. It should be repairable. But there is no policy like that in this country. What is called the right to repair. Yes, that's correct.
+1658141716.0-1658158658.0
+But unfortunately, we don't have that. We are coming to the end of this discussion. I have taken more time than I had asked for from you, Dr. Ajay. You're known as the father of hardware in India.
+1658158834.0-1658190494.0
+So many years later, you're coming back to that old situation. And now I can see that smile and that very bright face of yours, which is looking for a very futuristic India where it will be all Indian made and Indian products. So is this another very exciting phase for you? And not just 50 billion? We could look at a 500 billion in times to come.
+1658190692.0-1658215894.0
+I think clearly this is a time that I have been waiting for for the last 40 audience, and it's finally happening. So if it happens in my lifetime, it'll be a wonderful thing to see. And I have great admiration for the government today. They have actually created a policy that will make this happen for us. I mean, you just look at it.
+1658215932.0-1658247220.0
+If we want to be a 5 trillion economy, various states have to be half a trillion, 1 trillion, okay? If they're not, then the 5 trillion will not happen. And if we want to see largest states in the country up, they should be a 1 trillion economy. How can they be 1 trillion? The only way they can be 1 trillion, if they do a huge amount of manufacturing and export of technology products from India, that can enable that to happen.
+1658248790.0-1658314310.0
+On that very positive note, that India should be heading in this Amrit Kal to becoming self reliant in semiconductors chips and have a full ecosystem around it, not just to supply for India, but to supply for the world. I sincerely wish that in the next three, four, five years, the computer I am using right now, the smartphone I am using, the Led lights which I'm using around me are all made with chips made in India. But that will happen only when consumers want a safe environment around them. So consumers have to be aware. And this is one effort where we are saying our Chinese computer chips safe for India is to make the consumer aware that there are back doors, wrap doors, and we need to ensure safety.
+1658315690.0-1658396142.0
+Such a pleasure speaking to you, Dr. Ajay. I can already see on the chat box people saying this session should not end semiconductors platform in the downstream software side because your data is very precious. And if it goes on to servers outside the India, it can be misused. So between Dr.
+1658396196.0-1658411490.0
+Chaudhry's effort and the effort which has been put through by Golke, I think we should have a secure future because that is what our generation and the future generation duration wants. Such a pleasure speaking to you, Dr. Chaudhry.

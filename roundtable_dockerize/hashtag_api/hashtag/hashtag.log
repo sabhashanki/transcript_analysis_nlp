@@ -1,0 +1,466 @@
+2023-02-14 10:50:16,718 - INFO - Modules initialization
+2023-02-14 10:50:19,131 - INFO - Load pretrained SentenceTransformer: /home/ms/project/models/roundtable/all-mpnet-base-v2
+2023-02-14 10:50:25,823 - INFO - Use pytorch device: cuda
+2023-02-14 10:50:39,444 - INFO - Executing prediction endpoint
+2023-02-14 10:50:39,444 - INFO - Tokenizing summary
+2023-02-14 10:50:39,466 - INFO - Dividing into chunks
+2023-02-14 10:50:39,466 - INFO - Executing keyword module
+2023-02-14 10:50:39,466 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:43,287 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:44,512 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:45,487 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:46,367 - INFO - Executing camelcase module
+2023-02-14 10:50:46,367 - INFO - Post Processing
+2023-02-14 10:50:46,367 - INFO - returning output
+2023-02-14 10:50:46,373 - INFO - Executing prediction endpoint
+2023-02-14 10:50:46,373 - INFO - Tokenizing summary
+2023-02-14 10:50:46,374 - INFO - Dividing into chunks
+2023-02-14 10:50:46,374 - INFO - Executing keyword module
+2023-02-14 10:50:46,374 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:47,677 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:48,936 - INFO - Executing camelcase module
+2023-02-14 10:50:48,936 - INFO - Post Processing
+2023-02-14 10:50:48,945 - INFO - returning output
+2023-02-14 10:50:49,009 - INFO - Executing prediction endpoint
+2023-02-14 10:50:49,009 - INFO - Tokenizing summary
+2023-02-14 10:50:49,010 - INFO - Dividing into chunks
+2023-02-14 10:50:49,010 - INFO - Executing keyword module
+2023-02-14 10:50:49,010 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:49,708 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:50,549 - INFO - Executing camelcase module
+2023-02-14 10:50:50,549 - INFO - Post Processing
+2023-02-14 10:50:50,550 - INFO - returning output
+2023-02-14 10:50:50,615 - INFO - Executing prediction endpoint
+2023-02-14 10:50:50,615 - INFO - Tokenizing summary
+2023-02-14 10:50:50,616 - INFO - Dividing into chunks
+2023-02-14 10:50:50,616 - INFO - Executing keyword module
+2023-02-14 10:50:50,617 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:52,045 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:53,267 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:54,233 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:55,156 - INFO - Executing camelcase module
+2023-02-14 10:50:55,156 - INFO - Post Processing
+2023-02-14 10:50:55,156 - INFO - returning output
+2023-02-14 10:50:55,201 - INFO - Executing prediction endpoint
+2023-02-14 10:50:55,201 - INFO - Tokenizing summary
+2023-02-14 10:50:55,202 - INFO - Dividing into chunks
+2023-02-14 10:50:55,202 - INFO - Executing keyword module
+2023-02-14 10:50:55,202 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:56,619 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:58,010 - INFO - Executing Noun phrase loop
+2023-02-14 10:50:58,788 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:50:59,464 - INFO - Executing camelcase module
+2023-02-14 10:50:59,464 - INFO - Post Processing
+2023-02-14 10:50:59,464 - INFO - returning output
+2023-02-14 10:50:59,509 - INFO - Executing prediction endpoint
+2023-02-14 10:50:59,509 - INFO - Tokenizing summary
+2023-02-14 10:50:59,509 - INFO - Dividing into chunks
+2023-02-14 10:50:59,509 - INFO - Executing keyword module
+2023-02-14 10:50:59,509 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:00,192 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:00,909 - INFO - Executing camelcase module
+2023-02-14 10:51:00,909 - INFO - Post Processing
+2023-02-14 10:51:00,909 - INFO - returning output
+2023-02-14 10:51:00,961 - INFO - Executing prediction endpoint
+2023-02-14 10:51:00,961 - INFO - Tokenizing summary
+2023-02-14 10:51:00,962 - INFO - Dividing into chunks
+2023-02-14 10:51:00,963 - INFO - Executing keyword module
+2023-02-14 10:51:00,963 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:02,407 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:03,600 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:04,697 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:05,726 - INFO - Executing camelcase module
+2023-02-14 10:51:05,726 - INFO - Post Processing
+2023-02-14 10:51:05,726 - INFO - returning output
+2023-02-14 10:51:05,772 - INFO - Executing prediction endpoint
+2023-02-14 10:51:05,773 - INFO - Tokenizing summary
+2023-02-14 10:51:05,774 - INFO - Dividing into chunks
+2023-02-14 10:51:05,774 - INFO - Executing keyword module
+2023-02-14 10:51:05,774 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:07,149 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:08,365 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:09,481 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:10,363 - INFO - Executing camelcase module
+2023-02-14 10:51:10,363 - INFO - Post Processing
+2023-02-14 10:51:10,363 - INFO - returning output
+2023-02-14 10:51:10,437 - INFO - Executing prediction endpoint
+2023-02-14 10:51:10,437 - INFO - Tokenizing summary
+2023-02-14 10:51:10,439 - INFO - Dividing into chunks
+2023-02-14 10:51:10,439 - INFO - Executing keyword module
+2023-02-14 10:51:10,439 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:11,726 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:12,802 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:14,076 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:15,200 - INFO - Executing camelcase module
+2023-02-14 10:51:15,200 - INFO - Post Processing
+2023-02-14 10:51:15,200 - INFO - returning output
+2023-02-14 10:51:15,251 - INFO - Executing prediction endpoint
+2023-02-14 10:51:15,251 - INFO - Tokenizing summary
+2023-02-14 10:51:15,252 - INFO - Dividing into chunks
+2023-02-14 10:51:15,252 - INFO - Executing keyword module
+2023-02-14 10:51:15,252 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:16,636 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:17,881 - INFO - Executing camelcase module
+2023-02-14 10:51:17,882 - INFO - Post Processing
+2023-02-14 10:51:17,882 - INFO - returning output
+2023-02-14 10:51:17,932 - INFO - Executing prediction endpoint
+2023-02-14 10:51:17,932 - INFO - Tokenizing summary
+2023-02-14 10:51:17,935 - INFO - Dividing into chunks
+2023-02-14 10:51:17,935 - INFO - Executing keyword module
+2023-02-14 10:51:17,936 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:19,376 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:20,575 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:21,308 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:22,162 - INFO - No keywords extracted in this loop
+2023-02-14 10:51:22,162 - INFO - Executing camelcase module
+2023-02-14 10:51:22,162 - INFO - Post Processing
+2023-02-14 10:51:22,162 - INFO - returning output
+2023-02-14 10:51:22,231 - INFO - Executing prediction endpoint
+2023-02-14 10:51:22,231 - INFO - Tokenizing summary
+2023-02-14 10:51:22,234 - INFO - Dividing into chunks
+2023-02-14 10:51:22,234 - INFO - Executing keyword module
+2023-02-14 10:51:22,234 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:23,480 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:24,642 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:25,804 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:26,820 - INFO - Executing camelcase module
+2023-02-14 10:51:26,821 - INFO - Post Processing
+2023-02-14 10:51:26,821 - INFO - returning output
+2023-02-14 10:51:26,869 - INFO - Executing prediction endpoint
+2023-02-14 10:51:26,869 - INFO - Tokenizing summary
+2023-02-14 10:51:26,870 - INFO - Dividing into chunks
+2023-02-14 10:51:26,870 - INFO - Executing keyword module
+2023-02-14 10:51:26,870 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:28,407 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:29,496 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:30,412 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:31,188 - INFO - Executing camelcase module
+2023-02-14 10:51:31,188 - INFO - Post Processing
+2023-02-14 10:51:31,188 - INFO - returning output
+2023-02-14 10:51:31,236 - INFO - Executing prediction endpoint
+2023-02-14 10:51:31,236 - INFO - Tokenizing summary
+2023-02-14 10:51:31,237 - INFO - Dividing into chunks
+2023-02-14 10:51:31,237 - INFO - Executing keyword module
+2023-02-14 10:51:31,237 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:32,638 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:33,824 - INFO - Executing camelcase module
+2023-02-14 10:51:33,825 - INFO - Post Processing
+2023-02-14 10:51:33,825 - INFO - returning output
+2023-02-14 10:51:33,911 - INFO - Executing prediction endpoint
+2023-02-14 10:51:33,911 - INFO - Tokenizing summary
+2023-02-14 10:51:33,914 - INFO - Dividing into chunks
+2023-02-14 10:51:33,915 - INFO - Executing keyword module
+2023-02-14 10:51:33,916 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:35,425 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:36,603 - INFO - Executing camelcase module
+2023-02-14 10:51:36,603 - INFO - Post Processing
+2023-02-14 10:51:36,603 - INFO - returning output
+2023-02-14 10:51:36,650 - INFO - Executing prediction endpoint
+2023-02-14 10:51:36,650 - INFO - Tokenizing summary
+2023-02-14 10:51:36,653 - INFO - Dividing into chunks
+2023-02-14 10:51:36,654 - INFO - Executing keyword module
+2023-02-14 10:51:36,654 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:38,111 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:39,394 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:40,415 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:41,553 - INFO - Executing camelcase module
+2023-02-14 10:51:41,553 - INFO - Post Processing
+2023-02-14 10:51:41,553 - INFO - returning output
+2023-02-14 10:51:41,601 - INFO - Executing prediction endpoint
+2023-02-14 10:51:41,601 - INFO - Tokenizing summary
+2023-02-14 10:51:41,602 - INFO - Dividing into chunks
+2023-02-14 10:51:41,602 - INFO - Executing keyword module
+2023-02-14 10:51:41,602 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:43,005 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:44,231 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:45,380 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:46,368 - INFO - Executing camelcase module
+2023-02-14 10:51:46,368 - INFO - Post Processing
+2023-02-14 10:51:46,368 - INFO - returning output
+2023-02-14 10:51:47,302 - INFO - Executing prediction endpoint
+2023-02-14 10:51:47,302 - INFO - Tokenizing summary
+2023-02-14 10:51:47,306 - INFO - Dividing into chunks
+2023-02-14 10:51:47,306 - INFO - Executing keyword module
+2023-02-14 10:51:47,306 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:48,904 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:50,332 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:51,374 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:52,213 - INFO - Executing camelcase module
+2023-02-14 10:51:52,213 - INFO - Post Processing
+2023-02-14 10:51:52,213 - INFO - returning output
+2023-02-14 10:51:52,221 - INFO - Executing prediction endpoint
+2023-02-14 10:51:52,221 - INFO - Tokenizing summary
+2023-02-14 10:51:52,223 - INFO - Dividing into chunks
+2023-02-14 10:51:52,223 - INFO - Executing keyword module
+2023-02-14 10:51:52,224 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:53,682 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:55,022 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:55,951 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:56,792 - INFO - Executing camelcase module
+2023-02-14 10:51:56,792 - INFO - Post Processing
+2023-02-14 10:51:56,792 - INFO - returning output
+2023-02-14 10:51:56,793 - INFO - Executing prediction endpoint
+2023-02-14 10:51:56,794 - INFO - Tokenizing summary
+2023-02-14 10:51:56,795 - INFO - Dividing into chunks
+2023-02-14 10:51:56,795 - INFO - Executing keyword module
+2023-02-14 10:51:56,795 - INFO - Executing Noun phrase loop
+2023-02-14 10:51:58,306 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:51:59,502 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:00,527 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:01,390 - INFO - Executing camelcase module
+2023-02-14 10:52:01,390 - INFO - Post Processing
+2023-02-14 10:52:01,390 - INFO - returning output
+2023-02-14 10:52:01,392 - INFO - Executing prediction endpoint
+2023-02-14 10:52:01,392 - INFO - Tokenizing summary
+2023-02-14 10:52:01,394 - INFO - Dividing into chunks
+2023-02-14 10:52:01,394 - INFO - Executing keyword module
+2023-02-14 10:52:01,394 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:02,926 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:04,364 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:05,225 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:06,237 - INFO - Executing camelcase module
+2023-02-14 10:52:06,237 - INFO - Post Processing
+2023-02-14 10:52:06,238 - INFO - returning output
+2023-02-14 10:52:06,239 - INFO - Executing prediction endpoint
+2023-02-14 10:52:06,239 - INFO - Tokenizing summary
+2023-02-14 10:52:06,241 - INFO - Dividing into chunks
+2023-02-14 10:52:06,241 - INFO - Executing keyword module
+2023-02-14 10:52:06,241 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:07,829 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:09,050 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:10,028 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:10,907 - INFO - Executing camelcase module
+2023-02-14 10:52:10,907 - INFO - Post Processing
+2023-02-14 10:52:10,908 - INFO - returning output
+2023-02-14 10:52:10,909 - INFO - Executing prediction endpoint
+2023-02-14 10:52:10,909 - INFO - Tokenizing summary
+2023-02-14 10:52:10,910 - INFO - Dividing into chunks
+2023-02-14 10:52:10,910 - INFO - Executing keyword module
+2023-02-14 10:52:10,910 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:12,215 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:13,423 - INFO - Executing camelcase module
+2023-02-14 10:52:13,424 - INFO - Post Processing
+2023-02-14 10:52:13,424 - INFO - returning output
+2023-02-14 10:52:13,445 - INFO - Executing prediction endpoint
+2023-02-14 10:52:13,445 - INFO - Tokenizing summary
+2023-02-14 10:52:13,447 - INFO - Dividing into chunks
+2023-02-14 10:52:13,447 - INFO - Executing keyword module
+2023-02-14 10:52:13,447 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:15,007 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:16,205 - INFO - Executing camelcase module
+2023-02-14 10:52:16,206 - INFO - Post Processing
+2023-02-14 10:52:16,206 - INFO - returning output
+2023-02-14 10:52:16,207 - INFO - Executing prediction endpoint
+2023-02-14 10:52:16,207 - INFO - Tokenizing summary
+2023-02-14 10:52:16,209 - INFO - Dividing into chunks
+2023-02-14 10:52:16,209 - INFO - Executing keyword module
+2023-02-14 10:52:16,209 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:17,576 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:18,979 - INFO - Executing camelcase module
+2023-02-14 10:52:18,980 - INFO - Post Processing
+2023-02-14 10:52:18,980 - INFO - returning output
+2023-02-14 10:52:18,981 - INFO - Executing prediction endpoint
+2023-02-14 10:52:18,981 - INFO - Tokenizing summary
+2023-02-14 10:52:18,982 - INFO - Dividing into chunks
+2023-02-14 10:52:18,983 - INFO - Executing keyword module
+2023-02-14 10:52:18,983 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:20,363 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:21,706 - INFO - Executing camelcase module
+2023-02-14 10:52:21,706 - INFO - Post Processing
+2023-02-14 10:52:21,706 - INFO - returning output
+2023-02-14 10:52:21,708 - INFO - Executing prediction endpoint
+2023-02-14 10:52:21,708 - INFO - Tokenizing summary
+2023-02-14 10:52:21,710 - INFO - Dividing into chunks
+2023-02-14 10:52:21,710 - INFO - Executing keyword module
+2023-02-14 10:52:21,710 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:23,173 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:24,384 - INFO - Executing camelcase module
+2023-02-14 10:52:24,384 - INFO - Post Processing
+2023-02-14 10:52:24,384 - INFO - returning output
+2023-02-14 10:52:24,396 - INFO - Executing prediction endpoint
+2023-02-14 10:52:24,396 - INFO - Tokenizing summary
+2023-02-14 10:52:24,397 - INFO - Dividing into chunks
+2023-02-14 10:52:24,397 - INFO - Executing keyword module
+2023-02-14 10:52:24,397 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:25,208 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:25,931 - INFO - Executing camelcase module
+2023-02-14 10:52:25,932 - INFO - Post Processing
+2023-02-14 10:52:25,932 - INFO - returning output
+2023-02-14 10:52:25,933 - INFO - Executing prediction endpoint
+2023-02-14 10:52:25,933 - INFO - Tokenizing summary
+2023-02-14 10:52:25,933 - INFO - Dividing into chunks
+2023-02-14 10:52:25,933 - INFO - Executing keyword module
+2023-02-14 10:52:25,933 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:26,870 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:27,560 - INFO - Executing camelcase module
+2023-02-14 10:52:27,560 - INFO - Post Processing
+2023-02-14 10:52:27,560 - INFO - returning output
+2023-02-14 10:52:27,562 - INFO - Executing prediction endpoint
+2023-02-14 10:52:27,562 - INFO - Tokenizing summary
+2023-02-14 10:52:27,562 - INFO - Dividing into chunks
+2023-02-14 10:52:27,562 - INFO - Executing keyword module
+2023-02-14 10:52:27,562 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:28,335 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:29,262 - INFO - Executing camelcase module
+2023-02-14 10:52:29,262 - INFO - Post Processing
+2023-02-14 10:52:29,262 - INFO - returning output
+2023-02-14 10:52:29,264 - INFO - Executing prediction endpoint
+2023-02-14 10:52:29,264 - INFO - Tokenizing summary
+2023-02-14 10:52:29,265 - INFO - Dividing into chunks
+2023-02-14 10:52:29,265 - INFO - Executing keyword module
+2023-02-14 10:52:29,265 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:30,215 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:31,035 - INFO - Executing camelcase module
+2023-02-14 10:52:31,036 - INFO - Post Processing
+2023-02-14 10:52:31,036 - INFO - returning output
+2023-02-14 10:52:31,041 - INFO - Executing prediction endpoint
+2023-02-14 10:52:31,041 - INFO - Tokenizing summary
+2023-02-14 10:52:31,044 - INFO - Dividing into chunks
+2023-02-14 10:52:31,045 - INFO - Executing keyword module
+2023-02-14 10:52:31,045 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:32,992 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:34,512 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:35,576 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:36,569 - INFO - Executing camelcase module
+2023-02-14 10:52:36,569 - INFO - Post Processing
+2023-02-14 10:52:36,569 - INFO - returning output
+2023-02-14 10:52:36,570 - INFO - Executing prediction endpoint
+2023-02-14 10:52:36,570 - INFO - Tokenizing summary
+2023-02-14 10:52:36,571 - INFO - Dividing into chunks
+2023-02-14 10:52:36,571 - INFO - Executing keyword module
+2023-02-14 10:52:36,571 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:37,307 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:38,228 - INFO - Executing camelcase module
+2023-02-14 10:52:38,229 - INFO - Post Processing
+2023-02-14 10:52:38,229 - INFO - returning output
+2023-02-14 10:52:38,231 - INFO - Executing prediction endpoint
+2023-02-14 10:52:38,231 - INFO - Tokenizing summary
+2023-02-14 10:52:38,233 - INFO - Dividing into chunks
+2023-02-14 10:52:38,234 - INFO - Executing keyword module
+2023-02-14 10:52:38,234 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:39,781 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:41,042 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:42,030 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:43,023 - INFO - Executing camelcase module
+2023-02-14 10:52:43,023 - INFO - Post Processing
+2023-02-14 10:52:43,023 - INFO - returning output
+2023-02-14 10:52:43,024 - INFO - Executing prediction endpoint
+2023-02-14 10:52:43,024 - INFO - Tokenizing summary
+2023-02-14 10:52:43,025 - INFO - Dividing into chunks
+2023-02-14 10:52:43,025 - INFO - Executing keyword module
+2023-02-14 10:52:43,025 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:44,738 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:45,946 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:47,027 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:47,901 - INFO - Executing camelcase module
+2023-02-14 10:52:47,901 - INFO - Post Processing
+2023-02-14 10:52:47,901 - INFO - returning output
+2023-02-14 10:52:47,907 - INFO - Executing prediction endpoint
+2023-02-14 10:52:47,907 - INFO - Tokenizing summary
+2023-02-14 10:52:47,909 - INFO - Dividing into chunks
+2023-02-14 10:52:47,909 - INFO - Executing keyword module
+2023-02-14 10:52:47,909 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:49,566 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:50,902 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:51,927 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:52,848 - INFO - Executing camelcase module
+2023-02-14 10:52:52,848 - INFO - Post Processing
+2023-02-14 10:52:52,848 - INFO - returning output
+2023-02-14 10:52:52,849 - INFO - Executing prediction endpoint
+2023-02-14 10:52:52,849 - INFO - Tokenizing summary
+2023-02-14 10:52:52,851 - INFO - Dividing into chunks
+2023-02-14 10:52:52,851 - INFO - Executing keyword module
+2023-02-14 10:52:52,852 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:54,693 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:56,141 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:57,126 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:52:58,100 - INFO - Executing camelcase module
+2023-02-14 10:52:58,101 - INFO - Post Processing
+2023-02-14 10:52:58,101 - INFO - returning output
+2023-02-14 10:52:58,102 - INFO - Executing prediction endpoint
+2023-02-14 10:52:58,102 - INFO - Tokenizing summary
+2023-02-14 10:52:58,103 - INFO - Dividing into chunks
+2023-02-14 10:52:58,103 - INFO - Executing keyword module
+2023-02-14 10:52:58,103 - INFO - Executing Noun phrase loop
+2023-02-14 10:52:59,651 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:00,806 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:01,924 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:02,856 - INFO - Executing camelcase module
+2023-02-14 10:53:02,856 - INFO - Post Processing
+2023-02-14 10:53:02,856 - INFO - returning output
+2023-02-14 10:53:02,858 - INFO - Executing prediction endpoint
+2023-02-14 10:53:02,858 - INFO - Tokenizing summary
+2023-02-14 10:53:02,859 - INFO - Dividing into chunks
+2023-02-14 10:53:02,859 - INFO - Executing keyword module
+2023-02-14 10:53:02,859 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:04,732 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:06,188 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:07,018 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:07,888 - INFO - Executing camelcase module
+2023-02-14 10:53:07,888 - INFO - Post Processing
+2023-02-14 10:53:07,888 - INFO - returning output
+2023-02-14 10:53:07,891 - INFO - Executing prediction endpoint
+2023-02-14 10:53:07,891 - INFO - Tokenizing summary
+2023-02-14 10:53:07,893 - INFO - Dividing into chunks
+2023-02-14 10:53:07,893 - INFO - Executing keyword module
+2023-02-14 10:53:07,893 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:09,418 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:10,829 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:11,769 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:53:12,568 - INFO - Executing camelcase module
+2023-02-14 10:53:12,569 - INFO - Post Processing
+2023-02-14 10:53:12,569 - INFO - returning output
+2023-02-14 10:53:57,643 - INFO - Executing prediction endpoint
+2023-02-14 10:53:57,644 - INFO - Tokenizing summary
+2023-02-14 10:53:57,644 - INFO - Dividing into chunks
+2023-02-14 10:53:57,645 - INFO - Executing keyword module
+2023-02-14 10:53:57,645 - INFO - Executing Noun phrase loop
+2023-02-14 10:53:59,153 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:00,316 - INFO - Executing camelcase module
+2023-02-14 10:54:00,316 - INFO - Post Processing
+2023-02-14 10:54:00,317 - INFO - returning output
+2023-02-14 10:54:01,792 - INFO - Executing prediction endpoint
+2023-02-14 10:54:01,792 - INFO - Tokenizing summary
+2023-02-14 10:54:01,793 - INFO - Dividing into chunks
+2023-02-14 10:54:01,793 - INFO - Executing keyword module
+2023-02-14 10:54:01,793 - INFO - Executing Noun phrase loop
+2023-02-14 10:54:03,332 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:04,664 - INFO - Executing camelcase module
+2023-02-14 10:54:04,664 - INFO - Post Processing
+2023-02-14 10:54:04,665 - INFO - returning output
+2023-02-14 10:54:06,811 - INFO - Executing prediction endpoint
+2023-02-14 10:54:06,811 - INFO - Tokenizing summary
+2023-02-14 10:54:06,812 - INFO - Dividing into chunks
+2023-02-14 10:54:06,812 - INFO - Executing keyword module
+2023-02-14 10:54:06,812 - INFO - Executing Noun phrase loop
+2023-02-14 10:54:08,326 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:09,535 - INFO - Executing camelcase module
+2023-02-14 10:54:09,536 - INFO - Post Processing
+2023-02-14 10:54:09,536 - INFO - returning output
+2023-02-14 10:54:10,980 - INFO - Executing prediction endpoint
+2023-02-14 10:54:10,980 - INFO - Tokenizing summary
+2023-02-14 10:54:10,982 - INFO - Dividing into chunks
+2023-02-14 10:54:10,982 - INFO - Executing keyword module
+2023-02-14 10:54:10,982 - INFO - Executing Noun phrase loop
+2023-02-14 10:54:12,499 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:13,683 - INFO - Executing camelcase module
+2023-02-14 10:54:13,683 - INFO - Post Processing
+2023-02-14 10:54:13,683 - INFO - returning output
+2023-02-14 10:54:15,066 - INFO - Executing prediction endpoint
+2023-02-14 10:54:15,066 - INFO - Tokenizing summary
+2023-02-14 10:54:15,067 - INFO - Dividing into chunks
+2023-02-14 10:54:15,067 - INFO - Executing keyword module
+2023-02-14 10:54:15,067 - INFO - Executing Noun phrase loop
+2023-02-14 10:54:16,757 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:17,937 - INFO - Executing camelcase module
+2023-02-14 10:54:17,937 - INFO - Post Processing
+2023-02-14 10:54:17,937 - INFO - returning output
+2023-02-14 10:54:19,480 - INFO - Executing prediction endpoint
+2023-02-14 10:54:19,481 - INFO - Tokenizing summary
+2023-02-14 10:54:19,482 - INFO - Dividing into chunks
+2023-02-14 10:54:19,482 - INFO - Executing keyword module
+2023-02-14 10:54:19,482 - INFO - Executing Noun phrase loop
+2023-02-14 10:54:21,019 - INFO - Executing Noun-Noun phrase loop
+2023-02-14 10:54:22,189 - INFO - Executing camelcase module
+2023-02-14 10:54:22,190 - INFO - Post Processing
+2023-02-14 10:54:22,190 - INFO - returning output

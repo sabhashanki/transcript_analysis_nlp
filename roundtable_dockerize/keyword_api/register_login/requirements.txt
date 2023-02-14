@@ -1,0 +1,10 @@
+click
+h11
+pydantic
+starlette
+fastapi
+PyJWT
+passlib
+uvicorn
+python-dotenv
+pandas
